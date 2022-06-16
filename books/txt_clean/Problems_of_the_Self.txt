@@ -410,8 +410,8 @@ breast of another, and observe that succession of perceptions, which
 constitutes his mind or thinking principle, and suppose that he
 always preserves the memory of a considerable part of past percep-
 tions . . . ' Others, in criticising or expanding Hume's account, have
-6                        7
-loc. cit., § io.         Hume, Treatise of Human Nature, Bk. I, Pt. IV, Sec. VI.
+6 7
+loc. cit., § io. Hume, Treatise of Human Nature, Bk. I, Pt. IV, Sec. VI.
 Problems of the Self
 written in terms that similarly require an externalised view of the
 contents of a man's mind, a view obtainable from no conceivable
@@ -2551,8 +2551,8 @@ scarcely consistent with other features, and the general emphasis, of Straw-
 son's theory; it would make it, in fact, little different from the view I advance.
 But if this is what he actually meant, then my criticisms should be read as
 attaching not to Strawson but to a prevalent interpretation of Strawson.
-8                                 4
-Individuals, p. 105.              Ibid. p. 105.
+8 4
+Individuals, p. 105. Ibid. p. 105.
 Problems of the Self
 to which any P-predicate can be ascribed, or the sort of thing to
 which some P-predicate can be ascribed. If the latter, then the con-
@@ -3351,8 +3351,8 @@ than not getting to that point, longer enjoyment of them is bet-
 ter than shorter, and more of them, other things being equal, is better
 than less of them.. But if so, then it just will not be true that to die
 earlier is all the same as to die later, nor that death is never an evil -
-8                              4
-Ibid, 1091.                    Ibid, 830.
+8 4
+Ibid, 1091. Ibid, 830.
 The Makropulos case
 and the thought that to die later is better than to die earlier will not
 be dependent on some muddle about thinking that the dead person
@@ -3995,8 +3995,8 @@ to its limit, is not enough (I suggested before) to answer the question,
 once the question has come up and requires an answer in rational
 terms. Yet Unamuno's affirmation of existence even through limit-
 less suffering18 brings out something which is implicit in the claim
-16                                17
-Ibid., p. 79.                   Ibid., p. 28.
+16 17
+Ibid., p. 79. Ibid., p. 28.
 An affirmation which takes on a special dignity retrospectively in the light
 of his own death shortly after his courageous speech against Millan Astray
 and the obscene slogan*!Viva la Muerte!' See Hugh Thomas, The Spanish
@@ -8355,7 +8355,7 @@ connexions between consistency and realism which I have vaguely
 gestured towards in the later part of this paper have any substance
 in them; then one might have some reason for supposing that
 Ethical Realism is not vacuous, but is false.
-ADDITIONAL NOTE          (1972)
+ADDITIONAL NOTE (1972)
 The two articles Ethical Consistency and Consistency and Realism
 leave an important obscurity about the relations between 'incon-
 sistency' and 'conflict', taking the former term, (as I generally have

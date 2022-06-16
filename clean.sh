@@ -72,6 +72,7 @@ for f in *.txt; do
     # Remove whitespaces
     sed -i 's/^\s*//g' $f;
     sed -i 's/\s*$//g' $f;
+    sed -i 's/\s\+/ /g' $f;
 
     # Remove lines of all numbers
     sed -i 's/^[\s0-9]*$//g' $f;
@@ -82,7 +83,7 @@ for f in *.txt; do
     # Book specific edits
     if [ "$f" == "Descartes.txt" ]; then
         # Loose page numbers and notes
-        sed -i 's/\s*[0-9]*$//g' $f;
+        sed -i 's/\s*[0-9]\+$//g' $f;
         # Chapter titles
         sed -i -z 's/\([a-zA-Z]\)\nd e s c a r t e s\n\([a-zA-Z]\)/\1 \2/g' $f;
         sed -i -z 's/\([a-zA-Z]\)\nt h e p r o j e c t\n\([a-zA-Z]\)/\1 \2/g' $f;
