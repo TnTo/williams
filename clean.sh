@@ -75,7 +75,7 @@ for f in *.txt; do
     sed -i 's/\s\+/ /g' $f;
 
     # Remove lines of all numbers
-    sed -i 's/^[\s0-9]*$//g' $f;
+    sed -i '/^[\s0-9]*$/d' $f;
 
     # Remove empty lines
     sed -i '/^\s*$/d' $f;
@@ -191,7 +191,24 @@ for f in *.txt; do
     fi
 
     if [ "$f" == "Problems_of_the_Self.txt" ]; then
-        :
+        # Chapter titles
+        sed -i '/^Problems of the Self$/d' $f;
+        sed -i '/^Personal identity and individuation$/d' $f;
+        sed -i '/^Bodily continuity and personal identity$/d' $f;
+        sed -i '/^Imagination and the self$/d' $f;
+        sed -i '/^The self and the future$/d' $f;
+        sed -i '/^Are persons bodies?$/d' $f;
+        sed -i '/^The Makropulos case: reflections on the tedium of immortality$/d' $f;
+        sed -i '/^Strawson on individuals$/d' $f;
+        sed -i '/^Knowledge and meaning in the philosophy of mind$/d' $f;
+        sed -i '/^Deciding to believe$/d' $f;
+        sed -i '/^Imperative inference$/d' $f;
+        sed -i '/^Additional note (1972)$/d' $f;
+        sed -i '/^Ethical consistency$/d' $f;
+        sed -i '/^Consistency and realism$/d' $f;
+        sed -i '/^Morality and the emotions$/d' $f;
+        sed -i '/^The idea of equality$/d' $f;
+        sed -i '/^Egoism and altruism$/d' $f;
     fi
 
     if [ "$f" == "Shame_and_Necessity.txt" ]; then
