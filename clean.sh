@@ -34,7 +34,7 @@ for f in *.txt; do
     fi
 
     if [ "$f" == "Moral_Luck.txt" ]; then
-        sed -i 's/�/ /g' $f;
+        sed -i 's/�//g' $f;
         sed -i '1,205 d' $f;
     fi
 
