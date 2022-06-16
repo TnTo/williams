@@ -83,19 +83,19 @@ for f in *.txt; do
     if [ "$f" == "Descartes.txt" ]; then
         # Loose page numbers and notes
         sed -i 's/\s*[0-9]*$//g' $f;
-        ## Chapter titles
-        #sed -i 's/[a-zA-Z]\nd e s c a r t e s\n[a-zA-Z]$/ /g' $f;
-        #sed -i 's/[a-zA-Z]\nt h e p r o j e c t\n[a-zA-Z]$/ /g' $f;
-        #sed -i 's/[a-zA-Z]\ncogito and sum\n[a-zA-Z]$/ /g' $f;
-        #sed -i 's/[a-zA-Z]\nt h e r e a l d i s t i n c t i o n\n[a-zA-Z]$/ /g' $f;
-        #sed -i 's/[a-zA-Z]\ng o d\n[a-zA-Z]$/ /g' $f;
-        #sed -i 's/[a-zA-Z]\ne r r o r a n d t h e w i l l\n[a-zA-Z]$/ /g' $f;
-        #sed -i 's/[a-zA-Z]\nk n o w l e d g e i s p o s s i b l e\n[a-zA-Z]$/ /g' $f;
-        #sed -i 's/[a-zA-Z]\np h y s i c a l o b j e c t s\n[a-zA-Z]$/ /g' $f;
-        #sed -i 's/[a-zA-Z]\ns c i e n c e a n d e x p e r i m e n t\n[a-zA-Z]$/ /g' $f;
-        #sed -i 's/[a-zA-Z]\nm i n d a n d i t s p l a c e i n n a t u r e\n[a-zA-Z]$/ /g' $f;
-        #sed -i 's/[a-zA-Z]\na p p e n d i x\n[a-zA-Z]$/ /g' $f;
-        ##
+        # Chapter titles
+        sed -i -z 's/\([a-zA-Z]\)\nd e s c a r t e s\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z]\)\nt h e p r o j e c t\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z]\)\ncogito and sum\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z]\)\nt h e r e a l d i s t i n c t i o n\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z]\)\ng o d\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z]\)\ne r r o r a n d t h e w i l l\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z]\)\nk n o w l e d g e i s p o s s i b l e\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z]\)\np h y s i c a l o b j e c t s\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z]\)\ns c i e n c e a n d e x p e r i m e n t\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z]\)\nm i n d a n d i t s p l a c e i n n a t u r e\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z]\)\na p p e n d i x\n\([a-zA-Z]\)/\1 \2/g' $f;
+        #
         sed -i '/^d e s c a r t e s$/d' $f;
         sed -i '/^t h e p r o j e c t$/d' $f;
         sed -i '/^cogito and sum$/d' $f;
@@ -107,10 +107,8 @@ for f in *.txt; do
         sed -i '/^s c i e n c e a n d e x p e r i m e n t$/d' $f;
         sed -i '/^m i n d a n d i t s p l a c e i n n a t u r e$/d' $f;
         sed -i '/^a p p e n d i x$/d' $f;
-       
-
-
-        
+        #
+        sed -i 's/^m i n d a n d i t s p l a c e i n n a t u r e //g' $f;
       
     fi
 
