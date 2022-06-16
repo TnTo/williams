@@ -122,7 +122,8 @@ for f in *.txt; do
     fi
 
     if [ "$f" == "In_the_Beginning_Was_the_Deed.txt" ]; then
-        :
+        # Loose page numbers and notes
+        sed -i 's/\s*[0-9]\+$//g' $f;
     fi
 
     if [ "$f" == "Moral_Luck.txt" ]; then
