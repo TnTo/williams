@@ -186,7 +186,8 @@ for f in *.txt; do
     fi
 
     if [ "$f" == "Philosophy_as_a_Humanistic_Discipline.txt" ]; then
-        :
+        # Loose page numbers and notes
+        sed -i 's/\s*[0-9]\+$//g' $f;
     fi
 
     if [ "$f" == "Problems_of_the_Self.txt" ]; then
