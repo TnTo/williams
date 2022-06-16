@@ -1,12 +1,18 @@
 #!/bin/bash
+
+# Create folder
 mkdir -p books/txt_clean
 
+# Copy og
 for f in books/txt_og/*.txt; do
-    cp "$f" $(echo $f | sed s%txt_og%txt_clean% | sed s%\\s%_%g);
+    cp "$f" $(echo $f | sed s/txt_og/txt_clean/ | sed s/\\s/_/g);
 done
 
 cd books/txt_clean;
 for f in *.txt; do
+
+    # Remove head and tail
+
     if [ "$f" == "Descartes.txt" ]; then
         sed -i '5154,$ d' $f;
         sed -i '1,336 d' $f;
@@ -28,7 +34,7 @@ for f in *.txt; do
     fi
 
     if [ "$f" == "Moral_Luck.txt" ]; then
-        sed -i 's%�% %g' $f;
+        sed -i 's/�/ /g' $f;
         sed -i '1,205 d' $f;
     fi
 
@@ -62,5 +68,17 @@ for f in *.txt; do
         sed -i '2565,$ d' $f;
         sed -i '1,210 d' $f;
     fi
+
+    # Remove whitespaces
+    sed -i 's/^\s*//g' $f;
+    sed -i 's/\s*$//g' $f;
+
+    # Remove lines of all numbers
+    sed -i 's/^[\s0-9]*$//g' $f;
+
+    # Remove empty lines
+    sed -i '/^\s*$/d' $f;
+
+
 
 done
