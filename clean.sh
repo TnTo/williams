@@ -133,7 +133,7 @@ for f in *.txt; do
     if [ "$f" == "Morality.txt" ]; then
         sed -i '/^[Pp]age [0-9ivx]\+$/d' $f;
         sed -i -z 's/\([a-z]\)-\n\([a-z]\)/\1\2/g' $f;
-        #sed -i -z 's/\([^.!?]\)\n\([^A-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([^.!?]\)\n\([^A-Z]\)/\1 \2/g' $f;
     fi
 
     if [ "$f" == "On_Opera.txt" ]; then
