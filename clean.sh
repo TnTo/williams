@@ -191,6 +191,7 @@ for f in *.txt; do
     fi
 
     if [ "$f" == "Problems_of_the_Self.txt" ]; then
+
         # Chapter titles
         sed -i '/^Problems of the Self$/d' $f;
         sed -i '/^Personal identity and individuation$/d' $f;
@@ -209,6 +210,16 @@ for f in *.txt; do
         sed -i '/^Morality and the emotions$/d' $f;
         sed -i '/^The idea of equality$/d' $f;
         sed -i '/^Egoism and altruism$/d' $f;
+
+        # Anti-hypenation
+        sed -i -z 's/\([a-z]\)-\n\([a-z]\)/\1\2/g' $f;
+        # Anti line wrap
+        sed -i -z 's/\([^.!?]\)\n\([^A-Z]\)/\1 \2/g' $f;
+
+        # Loose page numbers and notes
+        sed -i 's/\s*[0-9]\+\s*$//g' $f;
+
+        # (!) Notes breaks the flow of the text
     fi
 
     if [ "$f" == "Shame_and_Necessity.txt" ]; then
