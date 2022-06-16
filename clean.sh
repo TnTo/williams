@@ -132,12 +132,57 @@ for f in *.txt; do
 
     if [ "$f" == "Morality.txt" ]; then
         sed -i '/^[Pp]age [0-9ivx]\+$/d' $f;
+        # Anti-hypenation
         sed -i -z 's/\([a-z]\)-\n\([a-z]\)/\1\2/g' $f;
+        # Anti line wrap
         sed -i -z 's/\([^.!?]\)\n\([^A-Z]\)/\1 \2/g' $f;
     fi
 
     if [ "$f" == "On_Opera.txt" ]; then
-        :
+        sed -i '/^[0-9]\{2\} Chapter [0-9]\{4\} [0-9]\{2\}\/[0-9]\/[0-9]\{2\} [0-9]\{2\}:[0-9]\{2\} Page [0-9]\+$/d' $f;
+        # Loose page numbers and notes
+        sed -i 's/\s*[0-9]\+$//g' $f;
+        # Chapter titles
+        sed -i -z 's/\([a-zA-Z\-]\)\nO N O P E R A\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nT H E N AT U R E O F O P E R A\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nM O Z A RT ’ S C O M E D I E S A N D T H E S E N S E O F A N E N D I N G\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nM O Z A RT ’ S F I G A R O\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nD O N G I O VA N N I A S A N I D E A\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nPA S S I O N A N D C Y N I C I S M\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nR AT H E R R E D T H A N B L A C K\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nT R I S TA N A N D T I M E\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nT H E E L U S I V E N E S S O F P E S S I M I S M\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nWA G N E R A N D T H E T R A N S C E N D E N C E O F P O L I T I C S\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nL’ E N V E R S D E S D E S T I N É E S\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nM A N I F E S T A RT I F I C E\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nC O M M E N T S O N O P E R A A N D I D E A S\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nT H E M A R R I A G E A N D T H E F L U T E\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nJ A N Á CĚ K ’ S M O D E R N I S M\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nA U T H E N T I C I T Y A N D R E - C R E AT I O N\n\([a-zA-Z]\)/\1 \2/g' $f;
+        sed -i -z 's/\([a-zA-Z\-]\)\nN A Ï V E A N D S E N T I M E N TA L O P E R A L O V E R S\n\([a-zA-Z]\)/\1 \2/g' $f;
+        #
+        sed -i '/^O N O P E R A$/d' $f;
+        sed -i '/^T H E N AT U R E O F O P E R A$/d' $f;
+        sed -i '/^M O Z A RT ’ S C O M E D I E S A N D T H E S E N S E O F A N E N D I N G$/d' $f;
+        sed -i '/^M O Z A RT ’ S F I G A R O$/d' $f;
+        sed -i '/^D O N G I O VA N N I A S A N I D E A$/d' $f;
+        sed -i '/^PA S S I O N A N D C Y N I C I S M$/d' $f;
+        sed -i '/^R AT H E R R E D T H A N B L A C K$/d' $f;
+        sed -i '/^T R I S TA N A N D T I M E$/d' $f;
+        sed -i '/^T H E E L U S I V E N E S S O F P E S S I M I S M$/d' $f;
+        sed -i '/^WA G N E R A N D T H E T R A N S C E N D E N C E O F P O L I T I C S$/d' $f;
+        sed -i '/^L’ E N V E R S D E S D E S T I N É E S$/d' $f;
+        sed -i '/^M A N I F E S T A RT I F I C E$/d' $f;
+        sed -i '/^C O M M E N T S O N O P E R A A N D I D E A S$/d' $f;
+        sed -i '/^T H E M A R R I A G E A N D T H E F L U T E$/d' $f;
+        sed -i '/^J A N Á CĚ K ’ S M O D E R N I S M$/d' $f;
+        sed -i '/^A U T H E N T I C I T Y A N D R E - C R E AT I O N$/d' $f;
+        sed -i '/^N A Ï V E A N D S E N T I M E N TA L O P E R A L O V E R S$/d' $f;
+
+        # Anti-hypenation
+        sed -i -z 's/\([a-z]\)-\n\([a-z]\)/\1\2/g' $f;
+        # Anti line wrap
+        sed -i -z 's/\([^.!?]\)\n\([^A-Z]\)/\1 \2/g' $f;
     fi
 
     if [ "$f" == "Philosophy_as_a_Humanistic_Discipline.txt" ]; then
