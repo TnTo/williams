@@ -1,247 +1,3 @@
-Problems of the Self
-Problems of
-  the Self
-Philosophical Papers
-    1956—1972
-
-BERNARD WILLIAMS
-
-
-
-
-   CAMBRIDGE
-   UNIVERSITY PRESS
-                    CAMBRIDGE UNIVERSITY PRESS
-   Cambridge, New York, Melbourne, Madrid, Cape Town, Singapore, Sao Paulo
-
-                          Cambridge University Press
-                The Edinburgh Building, Cambridge CB2 2RU, UK
-
-Published in the United States of America by Cambridge University Press, New York
-
-                                 www.cambridge.org
-           Information on this title: www.cambridge.org/9780521202251
-
-                       © Cambridge University Press 1973
-
-          This publication is in copyright. Subject to statutory exception
-         and to the provisions of relevant collective licensing agreements,
-                no reproduction of any part may take place without
-              the written permission of Cambridge University Press.
-
-                               First published 1973
-                           First paperback edition 1976
-
-                                  Reprinted 1999
-
-   A catalogue recordfor this publication is available from the British Library
-
-             Library of Congress Catalogue Card Number: 72-97881
-                     ISBN-13 978-0-521-29060-9 paperback
-                       ISBN-10 0-521-29060-0 paperback
-
-                        Transferred to digital printing 2006
-                     Contents
-
-    Preface                                   vii
-1 Personal identity and individuation           1
-2 Bodily continuity and personal identity      19
-3 Imagination and the self                     26
- 4 The self and the future                     46
-5 Are persons bodies ?                         64
-6 The Makropulos case: reflections on the
-    tedium of immortality                      82
-7 Strawson on individuals                     101
-8   Knowledge and meaning in the philosophy
-      of mind                                 127
-9   Deciding to believe                       136
-10 Imperative inference                       152
-      Additional note (1972)                  159
-11 Ethical consistency                        166
-12 Consistency and realism                    187
-      Additional note (1972)                  205
-13 Morality and the emotions                  207
-14 The idea of equality                       230
-15 Egoism and altruism                        250
-    Bibliography                              266
-  For
-Rebecca
-                              Preface
-
-This is a selection of the philosophical papers I have published,
-together with two new pieces and a couple of additional notes to
-older material. I have left some papers out on grounds of subject
-matter (what is here all relates to two or three themes), some on
-grounds of what I now think of them, and some for both reasons.
-The ones included I have tried so far as possible to leave as they
-were, but I have made one or two minor revisions, put in one or two
-footnotes of cross-reference, and done a limited amount of stylistic
-tinkering.
-   After some hesitation I have decided to include two critical notices
-of books, one of Strawson's Individuals, one of Shoemaker's Self-
-Knowledge and Self-Identity, even though the first, particularly,
-has very much the form of a book review. I have done this because
-both these books very much retain their interest, and because points
-raised in the notices relate closely to material in other papers. I have
-more or less cut down the notices to their argumentative content;
-if some expressions of praise have disappeared in the process, this
-is not because I have retracted them. The Shoemaker notice has also
-lost its first section, which now seems to me to make a lot of fuss
- about not much.
-   References to the sources of the papers reprinted here will be found
-at the end of the book. I am grateful to the original publishers for
-permission to reprint.
-                                                                    B.W.
- Cambridge November 1972
-
-
-
-
-                                   vu
-                     Personal identity and
-                         individuation
-There is a special problem about personal identity for two reasons.
-The first is self-consciousness - the fact that there seems to be a
-peculiar sense in which a man is conscious of his own identity. This
-I shall consider in Section 3 of this paper. The second reason is that
-a question of personal identity is evidently not answered merely by
-deciding the identity of a certain physical body. If I am asked whether
-the person in front of me is the same person as one uniquely present
-at place a at time t, I shall not necessarily be justified in answering
-'yes' merely because I am justified in saying that this human body is
-the same as that present at a at t. Identity of body is at least not a
-sufficient condition of personal identity, and other considerations, of
-personal characteristics and, above all, memory, must be invoked.
-    Some have held, further, that bodily identity is not a necessary
-condition of personal identity. This, however, is ambiguous, and
-yields either a weak or a strong thesis, depending on one's view of
- the necessity and sufficiency of the other conditions. The weaker
- thesis asserts merely that at least one case can be consistently con-
-structed in which bodily identity fails, but in which the other con-
- ditions will be sufficient for an assertion of personal identity; even
- though there may be some other imaginable case in which, some other
- condition failing, bodily identity is a necessary condition of personal
- identity. The stronger thesis asserts that there is no conceivable
- situation in which bodily identity would be necessary, some other
- conditions being always both necessary and sufficient. I take it that
- Locke's theory1 is an example of this latter type.
-    I shall try to show that bodily identity is always a necessary con-
- dition of personal identity, and hence that both theses fail. In this
- connexion I shall discuss in detail a case apparently favourable to the
- weaker thesis (Section 1). I shall also be concerned with the stronger
- thesis, or rather with something that follows from it - the idea that
- we can give a sense to the concept of a particular personality without
- reference to a body. This I shall consider chiefly in Section 4, where
-  the individuation of personalities will be discussed; the notion occurs,
- however, at various other places in the paper. The criterion of bodily
- 1
-     Essay Concerning Human Understanding, II, 27.
-                                       1
-                          Problems of the Self
-identity itself I take for granted. I assume that it includes the notion
-of spatio-temporal continuity, however that notion is to be explained.
-   In discussions of this subject, it is easy to fall into ways of speaking
-that suggest that 'bodily' and other considerations are easily divorced.
-I have regrettably succumbed to this at some points, but I certainly
-do not believe that this easy divorce is possible; I hope that both the
-general tenor of my thesis and some more direct remarks on the
-subject (Section 2) will show why.
-
-1 Deciding another's identity. Suppose someone undergoes a sud-
-den and violent change of character. Formerly quiet, deferential,
-church-going and home-loving, he wakes up one morning and has
-become, and continues to be, loud-mouthed, blasphemous and bully-
-ing. Here we might ask the question
-   (a) Is he the same person as he used to be?
-There seem to be two troubles with the formulation of this question,
-at least as an identity question. The first is a doubt about the refer-
-ence of the second 'he': if asked the question 'as who used to be?',
-we may well want to say 'this person', which answers the original
-question (a) for us. This is not a serious difficulty, and we can easily
-avoid it by rephrasing the question in some such way as
-   (b) Is this person the same as the person who went to sleep here
-last night?
-We do not, however, have to rephrase the question in any such way;
-we can understand (a) perfectly well, and avoid paradox, because our
-use of personal pronouns and people's names is malleable. It is a
-reflection of our concept of 'a person' that some references to him
-cannot be understood as references to his body or to parts of it, and
-that others can; and that these two sorts of reference can readily
-occur in one statement ('He was embarrassed and went red.') In the
-case of (a), the continuity of reference for 'he' can be supplied by
-the admitted continuity of reference of 'his body', and the more
-fundamental identity question can be discussed in these terms with-
-out any serious puzzlement
-   The second difficulty with (a) is that it is too readily translated into
-   (c) Is he the same sort of person as he used to be ? or possibly
-   (d) Has he the same personality as he used to have? But (c) and
-(d) are not identity questions in the required sense. For on any
-interpretation, 'sort of person', and on one interpretation, 'person-
-ality', are quality-terms, and we are merely asking whether the same
-subject now has different qualities, which is too easy to answer.
-   But this is only one interpretation of 'personality'. It corresponds
-                     Personal identity and individuation
-interestingly to a loose sense of 'identity', which is found for instance
-in Nigel Dennis' novel Cards of Identity. There 'identity' is often
-used to mean 'a set of characteristics', and 'giving someone an
-identity' means 'convincing someone that he is a certain sort of
-person'. It does not, however, only mean this; for Dennis' Identity
-Club do not stop at giving someone a new character - they give
-him a new background as well, and a local sponger is made by their
-persuasive methods not just into a submissive old-style butler, but
-into such a butler who used to be at sea and has deserted his wife.
-   We might feel that this was the point at which something specially
-uncanny was beginning to happen, and that this was the kind of
-anomalous example we were really looking for - the uncanniness
-of someone's acquiring a new past is connected with our increasing
-reluctance to describe the situation as one in which the same man
-has acquired a new set of qualities. Here we have one powerful
-motive for the introduction of memory. It can be put by saying that
-there are, or we can imagine, cases where we want to use some term
-like 'personality' in such a way that it is not a type-expression,
-meaning 'set of characteristics', but is a particular term meaning
-something like individual personality. It may seem that this particu-
-larity is attained by reference to memory - the possession of a
-particular past. Thus we are concerned here with cases more drastic
- than those in which for instance people say 'it has made a new
- man of him', or even 'he is not the same person as he used to be' in the
- sense suggested by a change of character; these cases we can too readily
- redescribe. Thus we may put our question in the barbarous form
-   (e) Is the (particular) personality he has now the same as the one
- he had before?
- We must now see whether we can make sense, in terms of memory,
- of the idea of a particular personality; and whether there can be
- personal identity without bodily identity.
-   In doing this, two obvious but important features of memory
- have to be borne in mind.
-    (I) To say 'A remembers x', without irony or inverted commas,
-    is to imply that x really happened; in this respect 'remember'
-    is parallel to 'know'.
-    (II) It does not follow from this, nor is it true, that all claims to
-    remember, any more than all claims to know, are veridical; or, not
-    everything one seems to remember is something one really
-    remembers.
- So much is obvious, although Locke2 was forced to invoke the
-2
-    loe. cit. § 13. He is speaking, however, only of the memories of actions.
-                                           3
-                               Problems of the Self
-providence of God to deny the latter. These points have been
-emphasised by Flew in his discussion of Locke's views on personal
-identity.3 In formulating Locke's thesis, however, Flew makes a
-mistake; for he offers Locke's thesis in the form 'if X can remember
-Y's doing such-and-such, then X and Y are the same person*. But
-this obviously will not do, even for Locke, for we constantly say
-things like 'I remember my brother joining the army' without
-implying that I and my brother are the same person. So if we are to
-formulate such a criterion, it looks as though we have to say some-
-thing like 'if X remembers doing such-and-such, then he is the person
-who did that thing'. But since 'remembers doing' means 'remembers
-himself doing', this is trivially tautologous, and moreover lends
-colour to Butler's famous objection that memory, so far from con-
-stituting personal identity, presupposed it. Hence the criterion should
-rather run: 'if X claims to remember doing such-and-such. . .' We
-must now ask how such a criterion might be used.
    Suppose the man who underwent the radical change of character -
 let us call him Charles - claimed, when he woke up, to remember
 witnessing certain events and doing certain actions which earlier he
@@ -273,7 +29,7 @@ chance of so doing. Thus if our subject Charles now claims to re-
     individuate; thus it is true of A, but not of B or C, that he is the man who
     felled the tree with the help of B and C.
                                            4
-                 Personal identity and individuation
+                 Personal identity and individuation
 member doing certain actions Alf A2, etc., and witnessing certain
 events Elp E2, etc., which are themselves suitably identified, we have
 good grounds for saying that he is some particular person or has
@@ -317,7 +73,7 @@ evidence. But so long as Charles claimed to remember events which
 were supposedly or certainly unwitnessed, such a description might
 be the best we could offer. We might do better than this, however, if
                                    5
-                          Problems of the Self
+                          Problems of the Self
 the events Charles claimed to remember were witnessed; in this case
 we could begin to advance to the idea that Charles had a new
 identity, because we would have the chance of finding someone for
@@ -361,7 +117,7 @@ features of the agent, such as his intentions. In a particular case,
  effectively, and by what means, we can identify the action in ques-
  tion. Suppose that several men at a certain time and place are each
                                       6
-                  Personal identity and individuation
+                  Personal identity and individuation
 sharpening a pencil. In these circumstances the description ' the man
 sharpening a pencil' fails to individuate: the action of sharpening a
 pencil is common to them all. If, however, the pencils were of
@@ -404,7 +160,7 @@ he claims to have done point unanimously to the life-history of some
 one person in the past - for instance, Guy Fawkes. Not only do all
 Charles' memory-claims that can be checked fit the pattern of
 Fawkes' life as known to historians, but others that cannot be
-                          Problems of the Self
+                          Problems of the Self
 checked are plausible, provide explanations of unexplained facts,
 and so on. Are we to say that Charles is now Guy Fawkes, that Guy
 Fawkes has come to life again in Charles' body, or some such thing?
@@ -448,7 +204,7 @@ would be ex hypothesi no principle determining which description
 was to apply to which. So it would be best, if anything, to say that
  both had mysteriously become like Guy Fawkes, clairvoyantly knew
                                      8
-                  Personal identity and individuation
+                  Personal identity and individuation
 about him, or something like this. If this would be the best descrip-
 tion of each of the two, why would it not be the best description of
 Charles if Charles alone were changed?
@@ -492,7 +248,7 @@ were two men who had exactly similar, or the same, memories, since
 are to describe Charles' relations to Guy Fawkes in terms of exact
  similarity of everything except the body, we are going to have
                                     9
-                          Problems of the Self
+                          Problems of the Self
 difficulty in finding a suitable description in these terms of his
 memory claims. We cannot say that he has the same memories as Guy
 Fawkes, as this is to imply, what we want to deny, that he really is
@@ -536,7 +292,7 @@ for their accounts to be connected into the history of one person, it is
  necessary to rely on the continuity of this body.
    Now the fact that Fawkes is in this sense identified through his
                                    10
-                 Personal identity and individuation
+                 Personal identity and individuation
 body does not rule out the possibility that Charles should later be
 identified with Fawkes without reference to a body; i.e. this fact does
 not rule out the weaker thesis about the non-necessity of bodies.
@@ -580,7 +336,7 @@ That would be a rather boring trick. The requirement is presumably
 that the emperor's body, with the peasant's personality, should be on
 the throne, and the peasant's body with the emperor's personality,
                                    11
-                                Problems of the Self
+                                Problems of the Self
 in the corner. What does this mean? In particular, what has hap-
 pened to the voices? The voice presumably ought to count as a bodily
 function; yet how would the peasant's gruff blasphemies be uttered in
@@ -625,7 +381,7 @@ foreseen - one has to consider the cases, and for this one has to see the
  5
      Philosophical Investigations, II, iv.
                                              12
-                        Personal identity and individuation
+                        Personal identity and individuation
 Thus Locke speaks of 'consciousness' (and by this he means here
 memory) as 'what makes a man be himself to himself'.6
     It is difficult to see what this can mean. If we take it to mean that
@@ -670,7 +426,7 @@ His most economical hypothesis would be that 2 itself was an
  6                        7
      loc. cit., § io.         Hume, Treatise of Human Nature, Bk. I, Pt. IV, Sec. VI.
                                              13
-                           Problems of the Self
+                           Problems of the Self
 written in terms that similarly require an externalised view of the
 contents of a man's mind, a view obtainable from no conceivable
 vantage-point. Theorising which is in this sense abstract must be
@@ -714,7 +470,7 @@ I have tried in this section to show in a limited way that although we
  given the clue to personal identity, this is in fact an illusion. That it
  is an illusion is disguised by those theories of personal identity
                                       14
-                    Personal identity and individuation
+                    Personal identity and individuation
 which, by assuming no particular point of view, try to get the best
 of both worlds, the inner and the outer. If we abandon this for a
 more realistic approach, the facts of self-consciousness prove incapable
@@ -759,7 +515,7 @@ we may refer to manifestations and ask how they are to be allocated
     See Morton Prince, The Dissociation of a Fcrsonality (New York: Longmans,
     1906).
                                        15
-                           Problems of the Self
+                           Problems of the Self
 one thread?' The second formulation in each case might seem to be
 strictly preferable to the first, because the references that are being
 made are more determinate; I can tell you exactly which part or which
@@ -803,7 +559,7 @@ tinguishing personalities without at least distinguishing bodies.
 There is such a principle; but it does not yield as exciting a result
 from this case as might be hoped.
                                       16
-                   Personal identity and individuation
+                   Personal identity and individuation
     Miss Beauchamp's striking different personalities were individu-
 ated in the first place by reference to personal characteristics, in
 which they were largely opposed; also by tastes and preferences
@@ -850,7 +606,7 @@ without reference to bodies.
  10
     Cf. P. F. Strawson, 'Particular and General', PAS LIV (1953-4), pp. 250 seq.
                                        17
-                                Problems of the Self
+                                Problems of the Self
 peculiar and limited. This can be seen from the odd workings of its
 criterion of identity. Consider the statement
      (i) He has the same character as his father (or he has his father's
@@ -895,7 +651,7 @@ because, as she says, "After all, it is always myself." ni
      Prince, Dissociation of a ?crsonalityt p. 525.
 
                                           18
-                       Bodily continuity and
+                       Bodily continuity and
                          personal identity
 Note 1972. This was a reply to criticisms made by Robert C. Coburn
 (Analysis, 20.5, i960) of an argument which I used in 'Personal
@@ -936,7 +692,7 @@ justifiably accept. Hence my argument is called into doubt.
 1
     Analysis 20.5, p. 118.
                                   19
-                           Problems of the Self
+                           Problems of the Self
     First, a point about 'vacuity'. In saying that an identification of
  A with B in the imagined circumstances was 'vacuous', I did not
  mean that no consequences would follow from it. If the identification
@@ -980,7 +736,7 @@ If, on the other hand, a short interval of time and reappearance in
 the same place are essential to Coburn's example, it is worth asking
 why this should be so.
                                     20
-                 Bodily continuity and personal identity
+                 Bodily continuity and personal identity
    I shall argue that if Coburn's example is to provide a case of
 identity, it must be restricted in this way; but that when it is
 restricted in this way, it is not a counter-example to my argument.
@@ -1024,7 +780,7 @@ for two persons simultaneously to occupy that place, and, second,
 that it should be sufficiently determinate not to leave it in doubt
 which of two or more places, so restricted, is the place in question.
                                        21
-                          Problems of the Self
+                          Problems of the Self
    It is perhaps this latter condition, among others, that introduces
 the consideration, not mentioned in the criteria as so far stated, but
 mentioned in Coburn's example, of the length of the lapse of time
@@ -1068,7 +824,7 @@ principle as the criterion of identity presupposed in his example, since
  terion presupposed in his example were restricted in the ways I have
  been discussing, no reduplication would be possible, since it could not
                                    22
-                   Bodily continuity and personal identity
+                   Bodily continuity and personal identity
 be the case that two persons could both be the first subsequent occu-
 pants of the place (in the required sense) vacated by the disappear-
 ance of George.
@@ -1113,7 +869,7 @@ criterion of identity: hence the requirements are too high.2
     say that (putatively) two amoebae are identical is to say that pro tanto I have
     only one amoeba; to say that they share the same life-history is not. Cf. G. C
     Nerlich, Analysis 18.6, June 1958, on this point.
-                          Problems of the Self
+                          Problems of the Self
 argument. There is a vital difference between this sort of reduplica-
 tion, with the criterion of spatio-temporal continuity, and the other
 sorts of case. This emerges when one considers what it is to apply the
@@ -1157,7 +913,7 @@ status of the criterion of identity.
  we have not such reasons - for instance with amoebae - one would
  indeed (in the unlikely event of one's wanting to answer an identity
                                      24
-                Bodily continuity and-personalidentity
+                Bodily continuity and-personalidentity
 question) have to watch out for reduplication, by constant observa-
 tion or otherwise.
    I conclude, then, that this sort of case, because of its special nature,
@@ -1167,7 +923,7 @@ called a one-one relation and not a one-many relation. Unless there
 is some such requirement, I cannot see how one is to preserve and
 explain the evident truth that the concepts of identity and of exact
 similarity are different concepts.
-                           3
+                           3
                 Imagination and the self
 
 I start with a notorious argument of Berkeley's.
@@ -1212,7 +968,7 @@ mind.
 
 
                                    26
-                       Imagination and the self
+                       Imagination and the self
    It is not very difficult to refute this argument. I shall not rehearse
 a number of the considerations that might be brought against it.
 Yet it seems to have something in it which is not utterly implausible;
@@ -1255,7 +1011,7 @@ involved a contradiction. Does it indeed do so ?
  issue'. It would only be if we had already accepted his earlier argu-
  ments about the status of the objects of sense that we might find the
  considerations drawn from visualisation persuasive for idealism.
-                           Problems of the Self
+                           Problems of the Self
     This extensional sense, however, constitutes only one way of
   taking a relative clause of this type and it is of limited application.
  The question of taking the statement in this way would seem to arise
@@ -1300,7 +1056,7 @@ essentially in his account of what he visualised - if he constructed
 his ideal girl to the specification of Claudia Cardinale, as it were.
 But this does not have to be so. It might merely be that he
                                       28
-                       Imagination and the self
+                       Imagination and the self
 visualised a girl, and that that girl happened to be just like Claudia
 Cardinale - he may, indeed, never have heard of Claudia Cardinale,
 and no reference to her would appear in his description of the girl he
@@ -1344,7 +1100,7 @@ biguous.
 his imagining this takes the form of visualisation. Suppose, further,
 that being rather radically misinformed about political developments,
                                    29
-                          Problems of the Self
+                          Problems of the Self
 he supposes Lord Salisbury to be the Prime Minister. What is it in
 fact that this man imagines? It seems difficult to deny that he does
 imagine assassinating the Prime Minister, since that is the act - let us
@@ -1388,7 +1144,7 @@ as at best an irrelevance, at worst an embarrassment.
 merely essential to the account of what I do imagine, but is essential
 to my particular imaginative project - the Salisbury element will be
                                    50
-                        Imagination and the self
+                        Imagination and the self
 essential, not to a man who is imagining the assassination of the
 Prime Minister and merely believes that Lord Salisbury is the Prime
 Minister, but rather to a man who is imagining the assassination
@@ -1431,7 +1187,7 @@ This tree has never been seen by anyone and never will be/
    The first of these two narrations would surely be that of a man
 whose project it was to imagine an unseen tree. If that was his
 project, his narration reveals him as having succeeded in it. Notice
-                         Problems of the Self
+                         Problems of the Self
 that the narration does not contain any incoherence; nor does any
 incoherence arise from the fact that he is able to give this narration.
 A difficulty of this latter kind would arise if what we were consider-
@@ -1474,7 +1230,7 @@ visualising is incapable of imagining an unseen tree. The correct
  thesis will rather be this: that although a man may imagine an
 unseen tree, and do it by visualising, he cannot do it by visualising an
 unseen tree. For visualising, it was suggested earlier, means 'thinking
-                        Imagination and the self
+                        Imagination and the self
 of oneself seeing': and to think of oneself seeing an unseen tree is (the
 thesis claims) a nonsense, in much the same way as (we have already
 seen) imagining oneself seeing an unseen tree is. So we cannot
@@ -1518,7 +1274,7 @@ present in what we visualise. The suggestion I am now considering is
 that this is how things are with imagining and visualising the un-
 seen; it is like the bath example, with the man precisely setting out
                                      33
-                         Problems of the Self
+                         Problems of the Self
 to imagine an empty bath, but with this difference: that the insepar-
 ability of the woman from the bath is a contingent fact about this
 man's present visualisings, whereas the inseparability of being seen
@@ -1562,7 +1318,7 @@ that an element or feature of what I visualise is that it is being
 seen; as it was an element or feature of the visualised bath that
 it contained a woman. I as perceiver do not necessarily belong
                                    34
-                       Imagination and the self
+                       Imagination and the self
 inside the world that I visualise, any more than I necessarily do
 so in the world that I imagine; oi the painter in the scene that
 he paints; or the audience in the world of the stage. The cum-
@@ -1606,7 +1362,7 @@ revolve around this point, only what may be called very vaguely
   scenery and setting: when in a play someone sets fire to the
    palace, they do not, hopefully, set fire to the scenery. It is just
                                     35
-                         Problems of the Self
+                         Problems of the Self
 because of these failures of identity that we can sensibly say that
 we are, as spectators, at a certain distance from the scenery and
 the actors, but not from the palace or from Othello; if identity
@@ -1650,7 +1406,7 @@ without great care, that it is our point of view; for we are not, in
 the usual case, invited to have the feeling that we are near to this
 castle, floating towards its top, or stealing around these lovers,
                                    36
-                     Imagination and the self
+                     Imagination and the self
 peering minutely at them. This effect can be created, sometimes
 unintentionally - but in the general run, it is not. One thing,
 in the general run, is certain: we are not there. Nor, again,
@@ -1694,7 +1450,7 @@ of view is necessarily that of one stealing around the characters.
 We can, then, even visualise the unseen.
    But now - if we are impressed at all by these analogies, and in
                                   37
-                        Problems of the Self
+                        Problems of the Self
 particular by the cinematic analogy, should we remain satisfied
 with this formula: visualising is thinking of myself seeing? Why
 does it have to be myself? The cinematic point of view, I sug-
@@ -1738,7 +1494,7 @@ a newspaper photograph, having a garland hung around my neck.
    All these types of imagery are familiar, of course, from dreams,
 as well as from fantasy in waking life. Dreams present also
                                  38
-                      Imagination and the self
+                      Imagination and the self
 further possibilities, less common perhaps in waking life; notably
 that of an uncomfortable half-way house between the first type,
 in which I am not in the scene, and the second or participation
@@ -1782,7 +1538,7 @@ history, visualise, say, a tree; but I do not occur in this operation
 again, as that person concerning whom, when I visualise a tree,
 I think that he sees a tree. So, bearing in mind those other
                                     39
-                         Problems of the Self
+                         Problems of the Self
 relatively straightforward cases, it is misleading to say that
 straight visualising is thinking of myself seeing something. It
 may indeed have actually misled people; for instance, Schlick.
@@ -1826,7 +1582,7 @@ easiest place, we know perfectly well that a great deal of what we
  had borne me in a different year, a different century, even. . . .
  Such speculations can retain a grip on the imagination only
                                    40
-                      Imagination and the self
+                      Imagination and the self
 up to a certain point, perhaps; and it is a significant fact that
 the point at which the grip slips, as it were, will differ with differ-
 ent people. For instance, it may well be the case that many
@@ -1870,7 +1626,7 @@ not have any memories. The limiting state of this progress is the
  real philosophical obstacle occurs, however, when one adds to
  these speculations another consideration: that it must also be
                                          41
-                        Problems of the Self
+                        Problems of the Self
 true that I might not have existed. This we certainly want to
 agree to - few will be persuaded that their own existence is a
 necessary feature of the universe. Now it is clear that, if we admit
@@ -1914,7 +1670,7 @@ any other specification of properties do better. So it looks as
  perhaps, made something like this point when he said to one
  who expressed the wish that he were King of China, that all he
                                   42
-                      Imagination and the self
+                      Imagination and the self
 wanted was that he should cease to exist and there should be a
 King in China.
    Thus we seem to reach an impasse: on the one hand, we have
@@ -1958,7 +1714,7 @@ use T in its ordinary way with respect to his ordinary self.
 produced. I am using it, as I was using it before, as a model to
  display what the man is imagining; some of his imaginative
                                    43
-                        Problems of the Self
+                        Problems of the Self
 activity may actually take the form of saying some of these
 things to himself, but much of it may take such forms as imagery
 of his doing and seeing things, of which this narrative merely
@@ -2002,7 +1758,7 @@ what I imagine seems to be straightforwardly self-contradictory,
  fantasy enactment of the role of Napoleon, is the only mode that
  has the power to sustain the speculations we have been discussing
                                    44
-                       Imagination and the self
+                       Imagination and the self
 at all. And this mode, properly understood, does not introduce a
 further 'me' to generate these difficulties: there are only two
 persons involved in this, as I said, the real me and Napoleon. It
@@ -2028,7 +1784,7 @@ comprehension of what is logically possible.
 
 
                                   45
-                           4
+                           4
                 The self and the future
 
 Suppose that there were some process to which two persons,
@@ -2068,7 +1824,7 @@ bodies is supposed possible in the most restricted sense. But now
 there is a further limitation which has to be overcome if the feat is
 to be not merely possible in the most restricted sense but also is to
                                    46
-                             The self and the future
+                             The self and the future
 have an outcome which, on serious reflection, we are prepared to
 describe as A and B having changed bodies - that is, an outcome
 where, confronted with what was previously A's body, we are
@@ -2113,7 +1869,7 @@ confronted with that body which previously was A's body - that is
 1
     Self-Know ledge and Self-Identity (Ithaca, NT., 1963), pp. 23 seq.
                                          47
-                         Problems of the Self
+                         Problems of the Self
 to say, that person who would naturally be taken for A by some-
 one who just saw this person, was familiar with A's appearance
 before the experiment, and did not know about the happening of
@@ -2157,7 +1913,7 @@ A and B will have got what he wanted, and the other not?
 experimenter, having elicited A's and B's preference, says nothing
 to A and B about what he will do; conducts the experiment; and
                                      8
-                      The self and the future
+                      The self and the future
 then, for example, gives the unpleasant treatment to the B-body-
 person and the pleasant treatment to the A-body-person. Then the
 B-body-person will not only complain of the unpleasant treatment
@@ -2201,7 +1957,7 @@ what is happening is in accordance with the preference that A
 originally expressed. The B-body-person will naturally express this
 acknowledgement (since he has A's memories) by saying that this
                                 49
-                         Problems of the Self
+                         Problems of the Self
 is the distribution he chose; he will recall, among other things, the
 experimenter announcing this outcome, his approving it as what
 he chose, and so forth. However, he (the B-body-person) certainly
@@ -2245,7 +2001,7 @@ the mirror, I am not so sure'; or the A-body-person might say
 wooden leg; but now, after it is over, I find that I have this
 wooden leg, and T want the experiment reversed.' It is possible
                                   5°
-                       The self and the future
+                       The self and the future
 that he might say further that he finds the leg very uncomfortable,
 and that the B-body-person should say, for instance, that he recalls
 that he found it very uncomfortable at first, but one gets used to it:
@@ -2288,7 +2044,7 @@ philosophical arguments designed to show that bodily continuity
 was at least a necessary condition of personal identity would seem
  to be just mistaken.
     Let us now consider something apparently different. Someone
-                        Problems of the Self
+                        Problems of the Self
 in whose power I am tells me that I am going to be tortured
 tomorrow. I am frightened, and look forward to tomorrow in great
 apprehension. He adds that when the time comes, I shall not
@@ -2332,7 +2088,7 @@ copied into mine. Fear, surely, would still be the proper reaction:
     If this is right, the whole question seems now to be totally
  mysterious. For what we have just been through is of course
                                    52
-                        The self and the future
+                        The self and the future
 merely one side, differently represented, of the transaction which
 we considered before; and it represents it as a perfectly hateful
 prospect, while the previous considerations represented it as some-
@@ -2376,7 +2132,7 @@ cally changed in the meantime in such a way as to rid me of my
 acrophobia (and as with the other prediction, I believe it), then I
 have no reason to be afraid of the predicted happening, or at least
                                   53
-                         Problems of the Self
+                         Problems of the Self
 not the same reason. Again, I might look forward to meeting a
 certain person again with either alarm or excitement because of
 my memories of our past relations. In some part, these memories
@@ -2420,7 +2176,7 @@ would then be for them, for things would then be for them not
 appalling. In the case we are at present discussing, these sorts of
 considerations seem merely to make it clearer that the predictions
                                   54
-                        The self and the future
+                        The self and the future
 of the man in charge provide a double ground of horror: at the
 prospect of torture, and at the prospect of the change in character
 and in impressions of the past that will precede it. And certainly,
@@ -2464,7 +2220,7 @@ cannot affect my expectations of torture? But - someone will say -
  (ii) amnesia is produced in A, and other interference leads to
        certain changes in his character;
                                       55
-                           Problems of the Self
+                           Problems of the Self
 (iii) changes in his character are produced, and at the same time
        certain illusory 'memory' beliefs are induced in him: these are of
        a quite fictitious kind and do not fit the life of any actual person;
@@ -2508,7 +2264,7 @@ model which is also their cause: and it is still difficult to see why
 that, to him looking forward, could possibly make the difference
 between expecting pain and not expecting pain. To illustrate
                                      56
-                             The self and the future
+                             The self and the future
 that point from the case of character: if A is capable of expecting
 pain, he is capable of expecting pain preceded by a change in his
 dispositions - and to that expectation it can make no difference,
@@ -2553,7 +2309,7 @@ person in (vi); so if the latter is not A, then neither is the former.
     This of course does not have to be the crucial question, but it seems one fair
     way of taking up the present objection.
                                         57
-                          Problems of the Self
+                          Problems of the Self
 (It is this point, no doubt, that encourages one to speak of the
 difference that goes with (vi) as being, on the present view, the
 reintroduction of A.) But no-one else in (v) has any better claim to be
@@ -2597,7 +2353,7 @@ present emotions will be correspondingly affected by this indeter-
 minacy. Thus, sticking to the egoistic concern involved in fear, I
 shall presumably be somewhat more cheerful than if I knew it was
                                      58
-                             The self and the future
+                             The self and the future
 going to be me, somewhat less cheerful than if I had been left out
 altogether. Fear will be mixed with, and qualified by, apprehen-
 sion; and so forth. These emotions revolve around the thought of
@@ -2642,7 +2398,7 @@ like the nameless horror, since the fixed point of that case was that
     For a more detailed treatment of issues related to this, see 'Imagination and
     the Self, pp. 38 seq.
                                         59
-                          Problems of the Self
+                          Problems of the Self
 it was going to happen to the subject, and that made his state
 unequivocally fear. Nor is it like the expectation of the man who
 expects one of the five to be hurt; his fear was indeed equivocal,
@@ -2686,7 +2442,7 @@ rather some such ambivalent concern.
  distinct from one another, and thus to displace the conceptual
  shadow from its proper place. I have to get nearer to him than
                                    60
-                      The self and the future
+                      The self and the future
 that. But is there any nearer that I can get to him without expect-
 ing his pain? If there is, the analogy has not shown us it. We can
 certainly not get nearer by expecting, as it were, ambivalent pain;
@@ -2730,7 +2486,7 @@ the idea (so often appealed to in these matters) that it is conven-
 tionally decidable is even worse. Following from all that, I am not
 in the least clear which option it would be wise to take if one were
                                   61
-                         Problems of the Self
+                         Problems of the Self
 presented with them before the experiment. I find that rather
 disturbing.
     Whatever the puzzlement, there is one feature of the arguments
@@ -2774,7 +2530,7 @@ of exactly the opposite. The first argument, which led to the
   been in yet greater difficulty about what to say; he just chose
   to make it as easy as possible for us to find something to say.
                                       62
-                       The self and the future
+                       The self and the future
 Now if we had some model of ghostly persons in bodies, which
 were in some sense actually moved around by certain procedures,
 we could regard the neat experiment just as the effective experi-
@@ -2792,7 +2548,7 @@ is wrong with it, we should perhaps decide that if we were the
 person A then, if we were to decide selfishly, we should pass the
 pain to the B-body-person. It would be risky: that there is room
 for the notion of a risk here is itself a major feature of the problem.
-                                 5
+                                 5
                         Are persons bodies?
 
 Problems of mind and body arise at two levels. On the one hand,
@@ -2833,7 +2589,7 @@ predicates. These are introduced, under those labels, by his saying:
 1
     Individuals (London: Methuen, 1959), Ch. 3.
                                         64
-                              Are persons bodies?
+                              Are persons bodies?
 applied to material bodies to which we would not dream of applying
 predicates ascribing states of consciousness2. . • The second kind con-
 sists of all the other predicates we apply to persons/3 This distinction
@@ -2881,7 +2637,7 @@ difficulty is whether this means that a person is the sort of thing
 8                                 4
   Individuals, p. 105.              Ibid. p. 105.
                                         65
-                               Problems of the Self
+                               Problems of the Self
 to which any P-predicate can be ascribed, or the sort of thing to
 which some P-predicate can be ascribed. If the latter, then the con-
 cept is not that of a person, but of (something like) an animal. If the
@@ -2926,7 +2682,7 @@ mental than this. It turns on what is meant by saying that (in the
      There is some more on this point, and on the individuation of P-predicates, in
     'Strawson on individuals', pp. 120-6.
                                          66
-                               Are persons bodies?
+                               Are persons bodies?
 simplified version of the thesis) P-predicates are predicates which 'we
 would not dream of applying to material bodies'. I shall take this, in
 the first instance, to mean something which could also be expressed
@@ -2971,7 +2727,7 @@ material bodies, we have been told nothing about any predicates
 6
     Individuals, p. 99 note.
                                        67
-                         Problems of the Self
+                         Problems of the Self
 which can be sensibly ascribed to material bodies and not to persons
 - perhaps any predicate ascribable to a material body can be sensibly,
 if patently falsely, ascribed to a person. But on this second showing,
@@ -3015,7 +2771,7 @@ be senseless. It is not the claim of the thesis that these predicates
 empirically exclude P-predicates - obviously enough. Nor is it the
 claim that they form logically inconsistent, contradictory conjunc-
                                     68
-                         Arc -persons bodies?
+                         Arc -persons bodies?
 tions when conjoined with P-predicates: that would be an interesting
 line to take, but it is different from, and indeed incompatible with,
 the 'category-senselessness' approach: in order to form a contradic-
@@ -3058,7 +2814,7 @@ Strawson's position which represents it as a thesis about sense.
 Perhaps, however, the phrase 'which we would not dream of apply-
 ing to material bodies' does not mean 'which it would make no sense
 to apply to material bodies'. Perhaps it just means that there are
-                          Problems of the Self
+                          Problems of the Self
 certain predicates which we ascribe to ourselves which we would never
 for a moment think could be truly ascribed to material bodies: such
 ascriptions would just, as we all know, be false. If this is what is
@@ -3102,7 +2858,7 @@ embodied state. Anyone who thinks the Cartesian account mistaken
 will, if I am right, have reason to give up an idea of a transition to a
 disembodied state; and since anyone who believes in a permanently
                                     70
-                         Are persons bodies?
+                         Are persons bodies?
 non-bodied person is presumably something like a Cartesian anyway,
 only Cartesians or near-Cartesians will be left.
    Let us consider, if we can, the state of a person previously em-
@@ -3145,7 +2901,7 @@ as it were, lose: thus a material body might become totally colourless
  taken to show that having a colour is not essential to being a physical
  body. The case of a person's losing all his physical attributes would
  seem in any case graver than that, and more significant for one's
-                           Problems of the Self
+                           Problems of the Self
 understanding of what sort of thing a person was; but in any case, it
 would certainly show that having physical attributes was not essen-
 tial to being a person. Now this would not lead directly, of course, to
@@ -3188,7 +2944,7 @@ different thing: it would seem to be, in fact, the person (it is, after all,
  to weighing k, the other from weighing m to weighing o.
     This entails that there are two different things, each of which at t
 weighed tn. So what are we to say about the weight at t of
-                         Are persons bodies?
+                         Are persons bodies?
 thing which consists just of those two things? It might seem that
 such a thing would have to weigh im: in which case, a person
 together with his body must weigh twice as much as his body
@@ -3232,7 +2988,7 @@ tions which govern the selection of the expressions 'Jones' and 'Jones's
 body'; but what has to be demonstrated is that the grotesqueness
 of many sentences which result from breaching these conventions
                                    73
-                         Problems of the Self
+                         Problems of the Self
 suffices to show that Jones and Jones's body are not the same thing;
 and I doubt whether this can be demonstrated. A rather simple
 argument to the conclusion that they are not the same thing rests on
@@ -3276,7 +3032,7 @@ psychological properties are included among material ones. If it is
 just defined to exclude psychological predicates, it patently begs the
 question. What the objection needs is a plausible independent
                                   74
-                            Are persons bodies?
+                            Are persons bodies?
 characterisation of material properties which excludes peculiar, e.g.,
 psychological, properties of persons. But what is this going to be?
 Descartes had a clear answer to this question: a material property will
@@ -3321,7 +3077,7 @@ positive; and, in particular, far from clear that the idea of causal
     David M. Armstrong, A Materialist Theory of the Mind (London: Routledge
     & Kegan Paul, 1968).
                                      75
-                          Problems of the Self
+                          Problems of the Self
 relations obtaining in an immaterial substance could be anything but
 utterly mysterious. If this idea were incurably confused, then it
 would at least not be a contingency that the causal relations involved
@@ -3365,7 +3121,7 @@ of bodies. This is the last objection I shall consider, and also, I think,
 the most forceful one. If persons are a class of bodies, then 'same
 person' must imply 'same body', just as, whales being a species of
                                    76
-                           Are persons bodies?
+                           Are persons bodies?
 mammal, 'same whale* implies 'same mammal', and soldiers being a
 class of men, 'same soldier' implies 'same man'. But to this require-
 ment that bodily identity be a necessary condition of personal
@@ -3412,7 +3168,7 @@ based on the continuity of material things (whether whole bodies or
   David Wiggins, Identity and Spatio-Tcmporal Continuity (Oxford: Blackwell,
    1967). PP- 5* scq.
                                      77
-                            Problems of the Self
+                            Problems of the Self
 there to be two distinct items, B and C, each of which satisfies the
 criterion in just the way that it would if the other did not exist. But
 this is not so with bodily continuity; what is true of B when it is in
@@ -3459,7 +3215,7 @@ since the identity of persons will diverge from the identity of bodies.
    A sophisticated version of such a criterion is suggested by Wiggins, Identity
    and Spatio-Tcmporal Continuity, p. 55.
                                        78
-                         Are persons bodies?
+                         Are persons bodies?
 Correspondingly, the ascription of properties to persons will not be
 the ascription of properties to bodies: not even the bodily properties
 which are ascribed to persons will be ascribed to bodies. For if the
@@ -3503,7 +3259,7 @@ problem which, in criticising the (admittedly very strong) version of
    clear that passage of information via the device is not in itself
    incompatible with later knowledge's being memory.
                                        79
-                         Problems of the Self
+                         Problems of the Self
    It seems also pretty clear that under these circumstances a person
 could be counted the same if this were done to him, and in the process
 he were given a new brain (the repairs, let us say, actually required
@@ -3547,7 +3303,7 @@ supposing that the token-persons, once printed off from the same
 prototype, have intercommunicating experiences (and it might be
 very far from clear what it would be to suppose this), they will be
                                     80
-                         Are persons bodies?
+                         Are persons bodies?
 divergently affected by different experiences, and will tend to get
 increasingly dissimilar. Looked at as copies of the prototype, they will
 become copies which are increasingly blurred or written-over; looked
@@ -3584,7 +3340,7 @@ spiritual, either.
 
 
                                   81
-                The Makropulos case:
+                The Makropulos case:
      reflections on the tedium of immortality
 This essay started life as a lecture in a series 'on the immortality of
 the soul or kindred spiritual subject'.1 My kindred spiritual subject
@@ -3624,7 +3380,7 @@ young woman among the protests of some older men.
     of Agnes and Constantine Foerster. I am grateful to the Committee for invit-
     ing me to give the 1972 lecture in this series.
                                           82
-                              The Maferopulos case
+                              The Maferopulos case
    EM's state suggests at least this, that death is not necessarily
 an evil, and not just in the sense in which almost everybody would
 agree to that, where death provides an end to great suflFering, but in the
@@ -3669,7 +3425,7 @@ tion, then there are no such experiences: in the Epicurean phrase,
 2
     de Rerum Natura III, 870 seq, 898 scq.
                                         83
-                          Problems of the Self
+                          Problems of the Self
 when death is there, we are not, and when we are there, death is
 not. So, death being annihilation, there is nothing to fear. The
 second argument3 addresses itself directly to the question of whether
@@ -3714,7 +3470,7 @@ earlier is all the same as to die later, nor that death is never an evil -
 8                              4
     Ibid, 1091.                    Ibid, 830.
                                       84
-                             The Makropulos case
+                             The Makropulos case
 and the thought that to die later is better than to die earlier will not
 be dependent on some muddle about thinking that the dead person
 will be alive to lament his loss. It will depend only on the idea, appar-
@@ -3760,7 +3516,7 @@ of shame). In such a calculation, a man might consider what lay
     affect the present discussion, which is within the limits of egoistic ration-
     ality.
                                         85
-                         Problems of the Self
+                         Problems of the Self
 before him, and decide whether he did or did not want to undergo
 it. If he does decide to undergo it, then some desire propels him on
 into the future, and that desire at least is not one that operates
@@ -3805,7 +3561,7 @@ what I want is not merely that of avoiding the unpleasantness of not
  things have got that far, has to be sustained or filled out by some
  desire for something else, even if it is only, at the margin, the desire
                                      86
-                            The Makropulos case
+                            The Makropulos case
 that future desires of mine will be born and satisfied. But the best
 insight into the effect of categorical desire is not gained at the
 impoverished end of things, and hence in situations where the
@@ -3852,7 +3608,7 @@ fortune for a man unless he knows about it, and that misfortunes
     'Death', Nous IV. 1 (1970), pp. 73 seq. Reprinted with some alterations in
      Rachels ed., Moral Problems.
                                        87
-                            Problems of the Self
+                            Problems of the Self
 these, has reason to regard possible death as a misfortune to be
 avoided, and we, looking at things from his point of view, would
 have reason to regard his actual death as his misfortune* Nagel, how-
@@ -3896,7 +3652,7 @@ death is X's misfortune (as opposed to the misfortunes of the state
 8
     Though my argument does not in any sense imply Utilitarianism; for some
     further considerations on this, see the final paragraphs of this paper.
-                             The Makropulos case
+                             The Makropulos case
 or whatever); and whatever sort of misfortune it may be in a given
 possible world that X does not occur in it, it is not X's misfortune.
 They share the feature, then, that for anything to be X's misfortune
@@ -3941,7 +3697,7 @@ admitted that more days may give us more than one day can.
 9
     Ethica Nicomachea iO96b 4.
                                      89
-                          Problems of the Self
+                          Problems of the Self
     If one pictures living for ever as living as an embodied person in
  the world rather as it is, it will be a question, and not so trivial as
  may seem, of what age one eternally is. EM was 342; because for
@@ -3985,7 +3741,7 @@ bons, learning nothing and forgetting nothing, and it is unclear how
 much could even happen.
    The more one reflects to any realistic degree on the conditions of
                                     90
-                         The Makropulos case
+                         The Makropulos case
 EM's unending life, the less it seems a mere contingency that it
 froze up as it did. That it is not a contingency, is suggested also by
 the fact that the reflections can sustain themselves independently of
@@ -4028,7 +3784,7 @@ hold out some hopes for those desires. The limiting case of this
 might be that the promised life held out some hope just to that
 desire mentioned before, that future desires of mine will be born
  and satisfied; but if that were the only categorical desire that carried
-                             Problems of the Self
+                             Problems of the Self
 me forward into it, at least this seems demanded, that any image I
 have of those future desires should make it comprehensible to me
 how in terms of my character they could be my desires.
@@ -4073,7 +3829,7 @@ come. If so, then no comfort or hope will be forthcoming in this
      Future*. For the point, mentioned below, of the independence of physical
      pain from psychological change, see p. 54.
                                       92
-                              The Makropulos case
+                              The Makropulos case
 model to fliose who want to go on living. More interesting questions,
 however, concern the man's relation to a future life of which he did
 get some advance idea. If we could allow the idea that he could fear
@@ -4118,7 +3874,7 @@ think that much can be made of it, I must confess that out of the
      framework, see Derek Parfit, 'Personal Identity', Philosophical Review,
      LXXX (1971), pp. 3-27.
                                         93
-                          Problems of the Self
+                          Problems of the Self
 alternatives it is the only one that for me would, if it made sense,
 have any attraction - no doubt because it is the only one which has
 the feature that what one is living at any given point is actually a
@@ -4162,7 +3918,7 @@ was not really oneself that would die, the change of formulation
  tunes, though a tired fancy in itself, at least serves to show up a real
  and (I suspect) a profound difficulty, of providing any model of an
                                    94
-                        The Makropulos case
+                        The Makropulos case
 unending, supposedly satisfying, state or activity which would not
 rightly prove boring to anyone who remained conscious of himself
 and who had acquired a character, interests, tastes and impatiences
@@ -4206,7 +3962,7 @@ rhetoric and that boredom was, indeed, a perfectly worthy reaction
  to this rhetoric after all this time; but for all that, the rhetoric
 might be necessary. A man at arms can get cramp from standing too
                                     95
-                         Problems of the Self
+                         Problems of the Self
 long at his post, but sentry-duty can after all be necessary. But the
 threat of monotony in eternal activities could not be dealt with in
 that way, by regarding immortal boredom as an unavoidable ache
@@ -4250,7 +4006,7 @@ make heavy demands on some theory of a 'real self* which will have
  This conclusion has been sympathetically expounded by Stuart
   Hampshire, who finds on this point a similar doctrine in Spinoza and
                                       6
-                           The Makropulos case
+                           The Makropulos case
 in Freud:12 in particular, he writes ' [one's] only means of achieving
  this distinctness as an individual, this freedom in relation to the
 common order of nature, is the power of the mind freely to follow
@@ -4296,7 +4052,7 @@ not to prove from premisses acceptable to any clear-headed man
    Disposition and Memory, Freedom of Mind, pp. 160 seq; see especially
      pp. 176-7.
                                      97
-                               Problems of the Self
+                               Problems of the Self
 who desires freedom that the boundaries of the self should be drawn
 round the intellect. On the contrary, the desire for freedom can, and
 should, be seen as the desire to be free in the exercise and develop-
@@ -4342,7 +4098,7 @@ dant of the other. That tradition - Manichean, Orphic, Platonic,
 lr
   > Ibid., p. 60.
                                         98
-                             The Makro-pulos case
+                             The Makro-pulos case
 Augustinian - which contrasts the spirit and the body in such a
 sense that the spiritual aims at eternity, truth and salvation, while
 the body is adjusted to pleasure, the temporary, and eventual dis-
@@ -4387,7 +4143,7 @@ less suffering18 brings out something which is implicit in the claim
      and the obscene slogan*!Viva la Muerte!' See Hugh Thomas, The Spanish
      Civil War (Harmondsworth: Pelican, 1961), pp. 442-4.
                                         99
-                         Problems of the Self
+                         Problems of the Self
 against Lucretius, It is not necessarily the prospect of pleasant times
 that create the motive against dying, but the existence of categorical
 desire, and categorical desire can drive through both the existence
@@ -4415,7 +4171,7 @@ priately mistranslated, lucky in having the chance to die.
 
 
                                   100
-                             7
+                             7
                    Strawson on individuals
 
 P. R Strawson's book Individuals1 is subtitled An Essay in Descriptive
@@ -4456,7 +4212,7 @@ section offers, fairly independently of the rest, some criticisms of
 1
     London: Methuen, 1959.
                                   101
-                          Problems of the Self
+                          Problems of the Self
 Strawson's chapter on persons. I do not consider at all the chapter
 on sounds, nor that on monads, nor much of the logical matter in
 the second part.
@@ -4500,7 +4256,7 @@ sufficient condition of this is the ability to pick out sensibly the
 mentioned particular, knowing it to be that particular; this is called
 direct location or demonstrative identification. However, we can, and
                                    102
-                       Straw son on individuals
+                       Straw son on individuals
 must be able to, identify non-relatively particulars that are not
 immediately given to perception; hence there must also be non-
 demonstrative identification.
@@ -4544,7 +4300,7 @@ he knew some individuating fact or facts (other than the fact that it
 was the particular being referred to), where to know an individuating
 fact about a particular is to know that such-and-such a thing is true
                                   103
-                            Problems of the Self
+                            Problems of the Self
 of that particular and of no other particular whatsoever; and he
 mentions no conditions under which a hearer could know something
 of this form, except that the particular in question should be
@@ -4588,7 +4344,7 @@ yesterday'. Now the latter judgement has existential presuppositions:
  then the two judgements are evidently not analogous, and the argu-
  ment collapses. If it does have an existential presupposition, there
                                       104
-                       Strawson on individuals
+                       Strawson on individuals
 is more than one possibility for what this presupposition may be, and
 whichever possibility is chosen, Strawson is in difficulties.
    First, it might be suggested that it was a sufficient condition of
@@ -4632,7 +4388,7 @@ book, Strawson extends the notion of identification of particulars in
  thought (pp. 60 seq.), i.e. to situations in which a thinker picks out or
 identifies a particular for himself, as it were. It cannot be a condition
                                      105
-                         Problems of the Self
+                         Problems of the Self
 of performing this feat that, for every description by means of which
 the thinker tries to identify a particular, he must already have
 another description which applies to the same thing: if it were so,
@@ -4676,7 +4432,7 @@ hearer has an independent description in hand; and this notion
 cannot be generalised to cover speaker-identification without benefit
 of hearer, as identification in thought. So what are these latter
                                     106
-                        Strawson on individuals
+                        Strawson on individuals
 notions ? Some of what Strawson says suggests that they effectively
 reduce to referring itself. But if so, first it would seem that this sense
 of 'identification' should be primary even in the speaker-hearer
@@ -4720,7 +4476,7 @@ class of basic particulars, in Strawson's terminology, is a class of
 particulars such that 'as things are, it would not be possible to make
 all the identifying references which we do make to particulars of
                                    107
-                          Problems of the Self
+                          Problems of the Self
 other classes, unless we made identifying references to particulars
 of that class, whereas it would be possible to make all the identifying
 references we do make to particulars of that class without making
@@ -4764,7 +4520,7 @@ basicness of material bodies among spatio-temporal particulars. In
  system' were to be so restricted, his conclusions would be trivialised.
  But this type of difficulty I shall not attempt to pursue.
                                       108
-                        Straw son on individuals
+                        Straw son on individuals
    First, then, there is a problem about what Strawson means when
 he says that 'we know our own place' in the spatio-temporal system:
 an assertion essential to his argument since it is supposed to explain
@@ -4808,7 +4564,7 @@ knowledge clearly does not relate me to anything. (A similar point
  place in the scheme plays any special role in my system of identifica-
  tions at all; for if my identification of here (in the only sense in which
                                     109
-                          Problems of the Self
+                          Problems of the Self
 it is going to be any use to me) depends on my identification of, say,
 the Greenwich meridian, why should I not be able to get on just as
 well by merely identifying the Greenwich meridian?
@@ -4852,7 +4608,7 @@ dicated presupposed identification of the speaker.
 reference presupposed the identification of the speaker, Strawson's
 theory would be in difficulties on more than one count. The appeal to
                                   110
-                        Strawson on individuals
+                        Strawson on individuals
 direct location as the foundation stone of our system of identifica-
 tions would be unsatisfactory, since direct location itself would be a
 complex notion presupposing identification of speakers; and the
@@ -4896,7 +4652,7 @@ particulars, at least, involves relating them to the one unique spatio-
  that places and times are identified in terms of material bodies, and
  material bodies in terms of places and times.
                                    111
-                         Problems of the Self
+                         Problems of the Self
    Strawson acknowledges this circularity himself, in one connexion:
 as concerns the reidentification of material bodies (p. 36). This is
 an extremely important connexion, since the possibility of such
@@ -4940,7 +4696,7 @@ be recalled that the basicness in question is one of identification,
 but that Strawson finds it 'unobjectionable' to say that basic par-
 ticulars are 'ontologically prior' (p. 59). However, it is not clear how
                                   112
-                        Strawson on individuals
+                        Strawson on individuals
 much this permissive gesture in fact permits, since it is not clear to
 what senses of 'ontologically prior* it extends. There is indeed one
 possible sense (or, perhaps, class of senses) of the term in which it
@@ -4983,7 +4739,7 @@ argument: the question of what importance or significance attaches
  general (cf. e.g. p. 246). It is very hard, taking the book as a whole,
  to resist the impression that this emphasis is in some way connected
  with questions of the reality or ontological status that is to be
-                          Problems of the Self
+                          Problems of the Self
 ascribed to various types of thing, despite the disclaimers that
 Strawson makes of such an interpretation. This impression seems
  to be confirmed in the closing sentences of the book when Strawson,
@@ -5027,7 +4783,7 @@ than another. It is only in a weak sense that it goes to show this,
 since it might well be that even within the context of 'our ordinary
 conceptual system', there were criteria of 'reality' or 'primacy' other
                                    114
-                        Strawson on individuals
+                        Strawson on individuals
  than basicness in identification; and Strawson never really produces
  an argument to show that basicness in identification is the only,
  or the chief, such criterion. Yet he needs such an argument, if the
@@ -5070,7 +4826,7 @@ way to one which is' (pp. 22-3). These somewhat ambiguous state-
 ments are meant to admit the possibility, I think, only of particulars
 that are in one of the pair time and space (presumably time) without
 being in the other, and not the possibility of particulars that are not
-                         Problems of the Self
+                         Problems of the Self
 in either. The same goes, presumably, for another passage in which
 Strawson says: ' every particular either has its place in this [sc.
 spatio-temporal] system, or is of a kind the members of which cannot
@@ -5114,7 +4870,7 @@ introduction of the subject term into a proposition is based on and
 presupposes a statement of empirical fact, whereas the introduction
 of the predicate or universal term does not. Thus, to take the
                                   116
-                        Strawson on individuals
+                        Strawson on individuals
  simplest case, the statement 'the man over there is smoking' intro-
  duces as its subject term the man over there, and this introduction is
  based on and presupposes the empirical fact that there is a man over
@@ -5158,7 +4914,7 @@ based on talk about another (cf. p. 201). Even for supposed indivi-
 duals which are not well entrenched, it seems that he has no tendency
 to say that they do not really exist; he shows approval of the proposal
                                   117
-                         Problems of the Self
+                         Problems of the Self
 that 'exist' be used in a formal way, to apply correctly to things of
 any category (pp. 239 seq.).
    How far, then, does this theory give any grounds for saying that
@@ -5202,7 +4958,7 @@ raises the further question: how much significance is to be attached
 to the fact, if it is a fact, that concentration on predication about
 particulars peculiarly helps to understand and justify the subject-
                                    118
-                       Straw son on individuals
+                       Straw son on individuals
 predicate distinction? For perhaps this distinction is of no ultimate
 importance. Now this is not a question that Strawson ignores or
 dismisses; he in fact introduces his discussion by mentioning Ram-
@@ -5246,7 +5002,7 @@ proposition: that subjects and predicates are different, and that
  predication about particulars is in fact correct. I think that this is
  doubtful, though I cannot pursue the question at any length here.
                                    119
-                              Problems of the Self
+                              Problems of the Self
 But on general grounds, one may wonder why our notions of the
 completeness, etc., of the subject term should be peculiarly con-
 nected with the empirical nature of the fact on which its introduction
@@ -5291,7 +5047,7 @@ which happen in some way to be joined.
     For further comment on the distinction, see 'Are Persons Bodies ?', pp. 64-70;
     and in particular, for the interpretation of Strawson, p. 65 and note.
                                        120
-                        Straw son on individuals
+                        Straw son on individuals
 views. His fundamental argument against the no-ownership view is
 that it cannot be stated without presupposing that which it sets out
 to deny. For of what set of experiences or states of consciousness is it
@@ -5335,7 +5091,7 @@ and 'no-ownership' views, his notion of 'logically adequate grounds'
 in connexion with the self-ascription and other-ascription of P-
 predicates, his account of ' I ' as a referring expression (p. 100, cf.
                                    121
-                          Problems of the Self
+                          Problems of the Self
 p. 103), and the sense of the term 'primitive', all invite discussion.
 I shall confine myself to just one question: the initial distinction
 between two sorts of predicates.
@@ -5379,7 +5135,7 @@ without introduction; it presumably stands for what are ascribed by
  that 'states of consciousness' are ascribed by that sub-class of P-
  predicates that cannot be applied to animals. But this would yield
                                    122
-                       Strawson on individuals
+                       Strawson on individuals
 a rather impoverished sub-class, and Strawson does not seem to
 recognise in what follows any such restriction; though perhaps he
 should, since it is the concept of 'a person', and not that of 'an
@@ -5423,7 +5179,7 @@ nexion. He can scarcely hold that it is a sufficient condition of the
 same predicate's being applied to persons and to material objects
 that the same v^ords are applied to both. If this were the condition,
                                   123
-                          Problems of the Self
+                          Problems of the Self
 the distinction would fall in some odd places - thus 'walk' would
 seem to be a P-predicate, but 'run' would not. Moreover, the class of
 P-predicates would be unacceptably small. A vast range of words
@@ -5467,7 +5223,7 @@ seems to me fundamentally misguided.
  movements? We move as a result of perceiving, and in order to
  perceive; and opening and closing of the eyes, the inclination of the
                                     124
-                      Strawson on individuals
+                      Strawson on individuals
 head, and the movement of the limbs are of a piece in this. If, in
 Strawson's model, someone in the C place directs a blow at C s face,
 can C turn his head aside to avoid the blow and look for somewhere
@@ -5511,7 +5267,7 @@ be so. For on Strawson's admissions, this disembodied person could
  (which are presumably private - he apparently feels no Wittgen-
   steinian doubts about talking of * grounds' here) are linked in the
                                  125
-                         Problems of the Self
+                         Problems of the Self
 same predicate, he says little on how or why this should be so; and
 on his approach, it seems bound to remain something of a mystery.
   Those who sympathise with the spirit of Strawson's conclusions on
@@ -5526,7 +5282,7 @@ solidity.
 
 
                                   126
-                                          8
+                                          8
              Knowledge and meaning in the
                  philosophy of mind
 I shall consider some points which bear on certain general methods
@@ -5567,7 +5323,7 @@ taken strictly - for in itself and taken strictly it is incontestable - but,
 1
     Ithaca: Cornell University Press, 1963.
                                         127
-                         Problems of the Self
+                         Problems of the Self
 rather, perhaps because it selects knowledge as the notion to associate
 with meaning, rather than saying (what would be equally incontest-
 able) that what we mean when we assert that something is the case
@@ -5611,7 +5367,7 @@ pains, which also involves an important connexion between mean-
  ing and knowledge.
     Shoemaker's argument against the sceptic is a version of the
                                   128
-         Knowledge and meaning in the philosophy of mind
+         Knowledge and meaning in the philosophy of mind
 'public language* considerations that have been extensively brought
 to bear on this question; it is a notably clear and succint version.
 The argument (pp. 168-9) can be fairly set out, I think, as follows:
@@ -5655,7 +5411,7 @@ formulation of his argument that it is free of the irrelevant con-
  siderations about language-learning which bedevil these issues. So
  (4) turns on 'uses it correctly'; and the sceptic will no doubt reply
                                    129
-                          Problems of the Self
+                          Problems of the Self
 that he agrees to (4) under this interpretation, but that the fact that
 he can tell in that sense that someone else understands 'pain' is com-
 patible with his scepticism; it is a less ambitious sense of 'understand'
@@ -5699,7 +5455,7 @@ and that Shoemaker's argument is, while falling short of a conclusive
 rebuttal, a good way of indicating some of the implausibility. But the
 second formulation has at least this much interest: it shows that in
                                    130
-         Knowledge and meaning in the philosophy of mind
+         Knowledge and meaning in the philosophy of mind
 order to escape Shoemaker's argument, the sceptic does not in fact
 have to deny any of its premisses; he merely has to deny that he knows
 premiss (2) to be true. The effect of the denial is not merely that
@@ -5742,7 +5498,7 @@ sorts of psychological situations in which first-person claims are
   states, which relations might change over time. For such terminology
   carries the implication of an external relation between distinct states
   of affairs, which relation is nevertheless said not to be contingent;
-                         Problems of the Self
+                         Problems of the Self
 and this implication, if it imputes a non-contingent connexion
 between the existence of the states of affairs, raises questions which
 it seems to me Shoemaker does not adequately consider.
@@ -5786,7 +5542,7 @@ others, and in particular to establish that the relationship had broken
 down; and moreover that one could not do this in one's own case
 either. He writes (pp. 189-90), The claim that one can imagine what
                                   132
-         Knowledge and meaning in the philosophy of mind
+         Knowledge and meaning in the philosophy of mind
 it would be like for [a breakdown in these relationships] to become in
 one's own case the rule rather than the exception is, I think,
 equivalent to the claim that we could establish [his emphasis] that
@@ -5828,7 +5584,7 @@ order to be identified, must exist). Thus:
 correlations must obtain if mental states are to be known, an argu-
 ment similar to the last one could lead one to a conclusion con-
 necting the existence of mental and physical states if one added that
-                         Problems of the Self
+                         Problems of the Self
 the existence of mental states involved their being known. For if the
 existence of mental states involves their being known, and their
 being known involves their correlation (in general) with physical
@@ -5872,7 +5628,7 @@ claims - that is, it rests on the psychophysical correlation. The
 argument against the sceptic did not, I suggest, knock the sceptic flat.
 But its materials might prove useful here. For the concept under
                                    134
-         Knowledge and meaning in the philosophy of mind
+         Knowledge and meaning in the philosophy of mind
 which the subject brings his sensation in knowing that he is in pain
 is pain; and this concept involves the psychophysical correlation.
    Now the fact that the concept is of this nature does not in itself
@@ -5905,7 +5661,7 @@ I introduced at the beginning.
 
 
                                  135
-                             9
+                             9
                      Deciding to believe
 
 When the subject of belief is proposed for philosophical discussion,
@@ -5945,7 +5701,7 @@ be with belief as a psychological state: I shall be talking about people
     The first of these features is something which can be roughly
   summarised as this: beliefs aim at truth. When I say that beliefs aim
                                       136
-                          Deciding to believe
+                          Deciding to believe
 at truth, I have particularly in mind three things. First: that truth
 and falsehood are a dimension of an assessment of beliefs as opposed
 to many other psychological states or dispositions. Thus if somebody
@@ -5989,7 +5745,7 @@ elementary expression of my belief that p, is the assertion that p, not
 forward expression of the belief that it is raining is to say 'it is
  raining*, not to say 'I believe that it's raining.* 'I believe that it's
                                      137
-                              Problems of the Self
+                              Problems of the Self
 raining' does a rather special job. As a matter of fact, it does a variety
 of special jobs.1 In some cases, it makes what is very like an auto-
 biographical remark; but very often in our discourse it does a special
@@ -6034,7 +5790,7 @@ for instance, 'predator'. If we were faced with the question: did the
     that discussions of 'I believe that pf provide the main highway to an under-
     standing of belief. That they do not, follows from this point itself.
                                          138
-                          Deciding to believe
+                          Deciding to believe
 rabbit think that it was a fox, or did the rabbit merely think it was
 a predator that was in front of it? we have some difficulty in deciding
 this question, indeed, in knowing how to set about deciding this
@@ -6078,7 +5834,7 @@ prevent our using concepts of belief or something rather like belief
  with regard to animals which are incapable of making assertions and
  do not possess a language - although we will have to warn ourselves
                                     139
-                              Problems of the Self
+                              Problems of the Self
 that such beliefs, recognitions and so on, are going to be ascribed to
 animals in an impoverished and (I think I have said enough to
 suggest), a somewhat conventionalised sense.2
@@ -6124,7 +5880,7 @@ intention or promises can be sincere or insincere because they do or
     good by special considerations, such as those concerning the choice of con-
     cepts figuring in that application.
                                          140
-                          Deciding to believe
+                          Deciding to believe
 do not represent an internal state of intention. Where the expression
 of a belief is the typical one of an assertion, that assertion itself can
 be called insincere just in that case in which the man does really
@@ -6168,7 +5924,7 @@ based upon his belief in certain evidential propositions, we have a
  where the connexion is rational - that is, not only does he believe
  that p because he believes that q, but we, and he, can also say
                                    141
-                            Problems of the Self
+                            Problems of the Self
 'p because g', - that does not stop the 'because' in ' A believes that p
 because he believes that q' from being causal. The fact that there is a
 rational connexion between p and q does not mean that there is not
@@ -6213,7 +5969,7 @@ of a man's believing that p because he believes that q.
     On this see Martin and Deutscher, 'Remembering', Philosophical Review,
     LXXV (1966).
                                    142
-                          Deciding to believe
+                          Deciding to believe
     People sometimes argue against the idea that we can have a causal
 connexion here, on the following ground. It cannot be the case that
 in rational thought I arrive at one belief causally because I have
@@ -6257,7 +6013,7 @@ have emerged, but if it is, it is at least not another miracle that the
   rise to his belief, can match the concepts that he uses in describing
   the environment and therefore, by the same token, in expressing his
                                      143
-                           Problems of the Self
+                           Problems of the Self
 beliefs. The very condition of having a shared experience, having a
 shared language and having a common perceived environment which
 we can know to be such, is this: we share concepts which simultane-
@@ -6301,7 +6057,7 @@ and heavy step onto a certain bridge. We say that it shows he believes
  safe. This is a fairly obvious point. It is in terms of the trio of project,
  belief, and action that we offer our explanations.
                                      144
-                           Deciding to believe
+                           Deciding to believe
     These, then, are the five characteristics or features of belief that I
 have wanted to emphasise.
     Now I want to consider a certain machine which satisfies, more or
@@ -6345,7 +6101,7 @@ least something like inference. We can add the fact that it gathers
   assertions, I should have actually put that in heavy scare-quotes;
   'assertion' itself has got to be understood in an impoverished sense
                                      145
-                          Problems of the Self
+                          Problems of the Self
 here, because our very concept of assertion is tied to the notion of
 deciding to say something which does or does not mirror what you
 believe. 'Assertion* in the case of this machine just means, bringing
@@ -6389,7 +6145,7 @@ know; that is, to find somebody who is a source of reliable information
    As a matter of fact, even with 'Jones knows that p', we do not have
  to have all this elaborate exercise of reasons. Consider the following
                                     146
-                         Deciding to believe
+                         Deciding to believe
 situation. They are engaged in this illicit love affair; she comes
 running in, and says 'He knows*. Her lover says: 'You mean he
 believes it? Well we know it's true. Now has he got good reasons
@@ -6433,7 +6189,7 @@ reflection on this and other common uses of 'know' suggests that
   might well think that beliefs were things which we, as it were, found
   we had (to put it very crudely), although we could decide whether to
                                    147
-                            Problems of the Self
+                            Problems of the Self
 express these or not. In general one feels that this must be on the
 right track.
    It fits in with the picture offered by Hume of belief as a passive
@@ -6477,7 +6233,7 @@ every feat of this kind which I had performed I necessarily had to
 believe that it had not taken place?
    Another reason stems from our considerations about perceptual
                                      148
-                         Deciding to believe
+                         Deciding to believe
 belief: a very central idea with regard to empirical belief is that of
 coming to believe that p because it is so, that is, the relation between
 a man's perceptual environment, his perceptions, and the beliefs that
@@ -6521,7 +6277,7 @@ issue in the philosophy of mind which gives rise to a large number
  been killed in an accident. It is not absolutely certain he has, but
  there is very strong evidence that his son was drowned at sea. This
                                     149
-                          Problems of the Self
+                          Problems of the Self
 man very much wants to believe that his son is alive. Somebody
 might say: If he wants to believe that his son is alive and this hypno-
 tist can bring it about that he believes that his son is alive, then why
@@ -6565,7 +6321,7 @@ project?
  of this. First, is the project of trying to get yourself to believe some-
  thing because it is more comfortable fundamentally different or not
                                    150
-                          Deciding to believe
+                          Deciding to believe
 from the project (more familiar, and, it might seem, more acceptable)
 of trying to forget something because it is uncomfortable? That is, if
 I just wanted to forget what was disagreeable, would this be very
@@ -6601,7 +6357,7 @@ mains of the ancien regime. The man gets rid of this belief about his
  least the project that leads to that condition, the project of self-
  deception, is something different from the blank projects of belief-
  inducement which we were considering.
-                                   10
+                                   10
 
                     Imperative inference
 
@@ -6642,7 +6398,7 @@ of giving commands or orders, and what I say will apply less
 directly, at least, to some of these other uses. However, it seems
 obvious that the use of imperatives to give orders or commands is the
                                    152
-                             Imperative inference
+                             Imperative inference
 basic use of imperatives,1 and if my criticism of the idea of inference
 in this connexion is correct, radical doubts about the idea of impera-
 tive inference in general would seem to follow.
@@ -6686,7 +6442,7 @@ permits him not to do y, so long as he does x. Thus the notion of such
     parallel way from the idea of counsel or advice that we wish our advice to
     be taken. Don't we leave that to the person we are advising?
                                           153
-                             Problems of the Self
+                             Problems of the Self
 in general a presupposition of the command 'do x' that x is permitted
 - where this means, of course, permitted so far as the present activity
 of commanding is concerned, since it is evidently possible that some-
@@ -6730,7 +6486,7 @@ x; the formula
     (Additional note 1972). I should have mentioned the original discussion of
     this paradox by Alf Ross, Theoria, VII (1941X PP- 53-71-
                                         154
-                         Imperative inference
+                         Imperative inference
 is again, self-defeating or paradoxical. But the effect of the disjunctive
 command, here the conclusion of the supposed inference, is (as
 already argued) to give permission not to do x, on a certain condition,
@@ -6773,7 +6529,7 @@ of the first premiss of (Di) to the presupposition of the assertion of
 the second would be merely the movement from ignorance to know-
 ledge, and such a movement, so far from upsetting the consistency of
                                    155
-                           Problems of the Self
+                           Problems of the Self
 a set of premisses in an inference, is built into the very notion of
 inference. We move from ignorance to knowledge by acquiring more
 truths; and adding one truth (or supposed truth) to another is just
@@ -6818,7 +6574,7 @@ moves from a less determinate statement to a more determinate one,
     § 32; cf. Bernard Mayo, 'Rule-Making and Rule-Breaking', Analysis 15.1
     (1954), p. 19-
                                     156
-                         Imperative inference
+                         Imperative inference
    The second way in which the two sorts of sequence differ follows
 from the fact that commands are carried out by the agency of other
 human beings. A command having been given, the onus passes to the
@@ -6862,7 +6618,7 @@ good illustration of his change of mind. But the same basic point
      These considerations show, I think, why a sequence of imperatives
   with conflicting presuppositions should be regarded as essentially
                                     157
-                         Problems of the Self
+                         Problems of the Self
 discontinuous, as involving a change of mind on the part of the
 speaker which prevents the set of imperatives being cumulatively
 assembled into anything that could be called a set of premisses. But
@@ -6906,7 +6662,7 @@ ever the wireless tells me: it tells me "do x", so I must do x', etc. -
 after which, he can add the deontic premisses together and draw the
 deontic conclusion, as above.
                                     .58
-                          Additional note (1972)
+                          Additional note (1972)
    It appears, then, that sequences of imperatives cannot be construed
 as inferences conducted either by the commander or by the agent. But
 every inference can be conceived of as possibly conducted by some-
@@ -6950,7 +6706,7 @@ ability as inferences.
     LXXVI (1967); reprinted in his Practical Inferences (London: Macmillan,
     1971). Page references here are to the latter.
                                      159
-                          Problems of the Self
+                          Problems of the Self
 to the special permissive presuppositions of the disjunctive com-
 mands that Hare takes the Gricean line. Some permissive relatives of
 simple commands he regards as entailed: 'Although there might be
@@ -6993,7 +6749,7 @@ of every contradictory pair of actions, one is forbidden; and, conse-
 quently, that the other is obligatory. Hence the category of the
 permitted falls out altogether. I conclude from that, that this inter-
                                    160
-                          Additional note (1972)
+                          Additional note (1972)
 pretation of permission cannot be correct, and, since Hare must
 need it for entailments with commands interpreted as he interprets
 them, he should give up his admittedly tentative support of (i) and (ii).
@@ -7037,7 +6793,7 @@ as conveying a command2 to a given agent to do a certain thing,
     This over-extended use of 'command' requires the same indulgence as was
     asked for in the original article.
                                        161
-                              Problems of the Self
+                              Problems of the Self
 I cannot also take it as conveying a permission (relative to the same
 set of institutions, interests, etc.) not to do that thing, since those
 two communicatory intentions cannot be intelligibly combined. The
@@ -7082,7 +6838,7 @@ tions will serve adequately to characterise the interesting question
 8
     Analysis 26, pp. 79-82.
                                       162
-                           Additional note (1972)
+                           Additional note (1972)
 here, as perhaps is suggested by Bar-Hillel in his rather vague plea
 for formalised, or at least normalised, language in the discussion of
 these issues. The notion of imperative inference is the notion of
@@ -7127,7 +6883,7 @@ What is being discussed is permissive presupposition, and the point
     This point incidentally answers Geach's objection (he. cit) that unobvious
     incompatibility can be discovered only by inference.
                                         163
-                              Problems of the Self
+                              Problems of the Self
 of the example is to show that these, being of Gricean character, can
 be cancelled or waived in such a case; so I take it that the remark
 about authorisation, if relevant, can be taken to mean something like
@@ -7172,7 +6928,7 @@ thought of as an imperative? Hare's chief reason seems to be (pp.
     eds. Agent, Action and Reason (Oxford: Blackwell, 1971), pp. 81 seq, and
     Pears' comments, ibid., pp. 108 seq.
                                        164
-                         Additional note (1972)
+                         Additional note (1972)
 33-4) that 'You are to go . . . ' and 'Go . . . ' are, in certain contexts,
 not very diflFerent. That is, on more than one ground, a very weak
 reason. If there really is imperative inference, why cannot we have
@@ -7183,7 +6939,7 @@ appearance in what are indisputably inferences?
 
 
                                     165
-                                  II
+                                  II
 
                      Ethical consistency
 
@@ -7224,7 +6980,7 @@ that person was a member of the Conservative Party. This case will
 be different from that of inconsistent beliefs, of course, only if the
 man is ignorant of the further information which reveals the two
                                    166
-                               Ethical consistency
+                               Ethical consistency
 beliefs as conflicting, viz. that no such Minister is a Conservative.
 If he is then given this information, and believes it, then either he
 becomes conscious of the conflict between his original beliefs1 or, if
@@ -7269,7 +7025,7 @@ Some cases involving difficulties with space and time, for instance,
     for the situation in which a man has become conscious that his beliefs con-
     flict.
                                         167
-                            Problems of the Self
+                            Problems of the Self
 a variable expression which gets a determinate content from the
 context and from the nature of the object in question.2 There are
 indeed other cases in which an aversion to x does not merely take the
@@ -7314,7 +7070,7 @@ more active, destructive, type of aversion distinguished before).
     For a discussion of a similar notion, see A. Kenny, Action, Emotion and
     Will (London: Routledge & Kegan Paul, 1963), Ch. 5.
                                      168
-                                Ethical consistency
+                                Ethical consistency
 in this direction is that in which the two sets of features are identical
 (the case of ambivalence) - though this will almost certainly involve
 the other, destructive, form of aversion.
@@ -7360,7 +7116,7 @@ desire, action; in the simplest case, I decide that one of the conflicting
     desires directed towards the same object in the same respects; that is to say,
     purely epithymetic conflicts have a contingent basis.
                                            169
-                           Problems of the Self
+                           Problems of the Self
 beliefs is true and not the other, or I satisfy one of the desires and
 not the other. The rejected belief cannot substantially survive this
 point, because to decide that a belief is untrue is to abandon, i.e. no
@@ -7404,7 +7160,7 @@ cases in which there is a conflict between two moral judgements
 that a man is disposed to make relevant to deciding what to do; that is
 to say, I shall be considering what has traditionally, though mis-
                                     170
-                          Ethical consistency
+                          Ethical consistency
 leadingly, been called 'conflict of obligations', and not, for instance,
 conflicts between a moral judgement and a non-moral desire, though
 these, too, could naturally enough be called 'moral conflicts'. I shall
@@ -7447,7 +7203,7 @@ there is a logical inconsistency of some sort involved here, that is the
 ultimate topic of this paper.
    5 I want to postpone, however, the more formal sorts of consider-
 ation for a while, and try to bring out one or two features of what
-                          Problems of the Self
+                          Problems of the Self
 these situations are, or can be, like. The way I shall do this is to
 extend further the comparison I sketched earlier, between conflicts
 of beliefs and conflicts of desires. If we think of it in these terms,
@@ -7491,7 +7247,7 @@ choice I made I acted for the best; I can be convinced of this, yet
 have these regrets, ineffectual or possibly effective, for what I did
 not do*
                                    172
-                           Ethical consistency
+                           Ethical consistency
    It may be said that if I am convinced that I acted for the best; if,
 further, the question is not the different one of self-reproach for
 having got into the conflict-situation in the first place; then it is
@@ -7535,7 +7291,7 @@ gods, to give rise to tragic situations.
  in these situations; it might even be conceded that a fully admirable
 4
     Aeschylus, Agamemnon 217.
-                          Problems of the Self
+                          Problems of the Self
 moral agent would, on occasion, have such regrets; nevertheless (it
 may be said) this is not to be connected directly with the structure of
 the moral conflict. The man may have regrets because he has had to
@@ -7579,7 +7335,7 @@ not to do a certain thing, and is distressed by the thought of doing
 that thing; then if he does it, and is distressed at what he has done,
 this distress will probably have the shape of his thinking that in
                                     174
-                          Ethical consistency
+                          Ethical consistency
 doing that thing, he has done something that he ought not to have
 done.
    The second point of criticism here is that even if the sharp
@@ -7623,7 +7379,7 @@ not intend 'irrational' pejoratively: we must rather admit that an
  for such feelings as relief (at escaping mistake), self-congratulation
  (for having got the right answer), or possibly self-criticism (for having
                                    175
-                               Problems of the Self
+                               Problems of the Self
 so nearly been misled). Ross - whom unfairly I shall mention without
 discussing in detail - makes a valiant attempt to get nearer to the
 facts than this, with his doctrine that the prima facie obligations are
@@ -7669,7 +7425,7 @@ previous one, since my reason for avoiding such situations in the
     wrapped up in the multiply ambiguous phrase 'laws stating the tendencies
     of actions to be obligatory in virtue of this characteristic or of that* (p. 86).
                                           176
-                           Ethical consistency
+                           Ethical consistency
 future is that I have learned that in them both ought's do apply.
 In extreme cases, again, it may be that there is no lesson to be learned
 at all, at least of this practical kind.
@@ -7713,7 +7469,7 @@ who (no doubt among other things) so conducts himself that this aim
   (in the sense of never having heard of various issues), and of the
   second of these, at least, one appropriate criticism might be similar to
                                        177
-                          Problems of the Self
+                          Problems of the Self
 one in the case of desires, a suggestion of self-impoverishment There
 are many other considerations relevant here, of course; but a central
 point for our present purpose does stand, that from the fact that
@@ -7757,7 +7513,7 @@ of that sort is incompatible with moral indifference towards those
     The avoidance of moral conflict, then, emerges in two ways as
  something for which one is not merely free to devise a policy.
                                    178
-                           Ethical consistency
+                           Ethical consistency
 A moral observer cannot regard another agent as free to restructure
 his moral outlook so as to withdraw moral involvement from the
 situations that produce conflict; and the agent himself cannot try
@@ -7801,7 +7557,7 @@ factory than I should like; but I hope that it may help a little.
  the pair 'I ought to do a* and 'I ought to do b' do not wear it at all.
  This is not surprising, since the conflict arises not from these two
                                     179
-                          Problems of the Self
+                          Problems of the Self
 alone, but from these together with the statement that I cannot do
 both a and b. How do these three together acquire the form of logical
 inconsistency? The most natural account is that which invokes two
@@ -7845,7 +7601,7 @@ in purely logical terms: it involves the substitution of extensional
  noticed much earlier with a parallel situation with conflicts of desires:
  it conceals the real roots of the conflict. The formulation with * ought
                                       180
-                          Ethical consistency
+                          Ethical consistency
 implies can* does not do this, and offers a more realistic picture of
 how the situation is.
      Indeed, so far from trying to assimilate the first type of case to the
@@ -7889,7 +7645,7 @@ Now much could be said about 'ought implies can\ which is not a
  certainly many characterisations of actions in the general field of
  evaluation for which agglomeration does not hold, and for which
                                      181
-                         Problems of the Self
+                         Problems of the Self
 what holds of each action taken separately does not hold for both
 taken together: thus it may be desirable, or advisable, or sensible, or
 prudent, to do a, and again desirable or advisable etc. to do b, but not
@@ -7933,7 +7689,7 @@ the most natural to use in such deliberations:
 Now (i) and (ii) appear to be genuine conditional statements; with
 suitable adjustment of tenses, they admit both of contraposition and
                                        182
-                           Ethical consistency
+                           Ethical consistency
 of use in modus ponens. They are thus not like the curious non-
 conditional cases discussed by Austin.6
   Consider now two apparently valid applications of 'ought implies
@@ -7978,7 +7734,7 @@ patible. But this does not mean they do not both (actually) apply to
     Ifs and Cans, reprinted in his Philosophical Papers (Oxford: The Clarendon
     Press, 1961).
                                     183
-                          Problems of the Self
+                          Problems of the Self
 the situation; or that I was in some way mistaken in thinking that
 these were both things that I ought to do. I may continue to think
 this retrospectively, and hence have regrets; and I may even do this
@@ -8022,7 +7778,7 @@ ably ask the deliberative question 'what ought I to do?' and get an
  answer to it. If this question meant 'Of which course of action is it
  the case that I ought (morally) to do it?', the answer is so patent
                                     184
-                          Ethical consistency
+                          Ethical consistency
 that the question could not be worth asking: indeed, it would not be
 a deliberative question at all. But the deliberative question can be
 worth asking, and I can, moreover, intelligibly arrive at a decision,
@@ -8066,7 +7822,7 @@ may seem troubling on my approach, that a man who has had a
  to say, as something of which he was not wrong at the time in
  thinking that he ought to do it.
                                   185
-                          Problems of the Self
+                          Problems of the Self
    In fact, of course, it is not even true that the deliberative question
 is 'what ought I to do?'. It may well be, for instance, 'what am I to
 do?'; and that question, and the answers to it - such as 'do a\ or
@@ -8078,7 +7834,7 @@ necessarily involves deciding that the other one had no application.
 
 
                                   186
-                                        12
+                                        12
 
                      Consistency and realism
 
@@ -8121,7 +7877,7 @@ concerned with optatives, etc.
     Philosophy of Science, 1939, pp. 446 seq.
 
                                         187
-                            Problems of the Self
+                            Problems of the Self
 imperatives be understood in terms of the possibility of obedience to
 them, where 'obedience' must be understood in an etiolated sense,
 equivalent to 'corresponding action': the necessity for a minimal
@@ -8167,7 +7923,7 @@ called its 'obedience-statement'; and we may say that two imperatives
 4
     Cf. Hare: The language of Morals (Oxford: The Clarendon Press, 1964), p. 28;
                                         188
-                        Consistency and realism
+                        Consistency and realism
 that the application of 'consistent' and, again, 'inconsistent', to
 imperatives and to indicatives is straightforwardly univocal; since
 consistency and inconsistency hold between phrastics, and phrastics
@@ -8213,7 +7969,7 @@ indisputably indicative. It might seem essential to representing the
   'Truth', PAS, LIX (1958/9) p. 150. Reprinted in G. Pitcher ed. Truth (New
    York: Prentice-Hall, 1964).
                                        189
-                         Problems of the Self
+                         Problems of the Self
 power being only materially, and not logically different: it is merely
 that here there is not, as a matter of fact, a way of obeying such
 imperatives which consists in falsifying the antecedent.
@@ -8257,7 +8013,7 @@ ing only the incurring or escaping of punishment as the relevant
   while, in contrast,
      (v) Smith, sweep the yard this afternoon
                                      190
-                       Consistency and realism
+                       Consistency and realism
 is in no sense inconsistent with (iv). The most extreme logical dis-
 comfort that could arise with the combination of (iv) and (v) would
 be a certain pragmatic embarrassment if (iv) were asserted to, or in
@@ -8301,7 +8057,7 @@ empirically the case that the imperatives in question cannot all be
  cance with respect to indicatives. This is what I shall now try to
  show. Consider two situations: (1) speakers A and B make respectively
                                     191
-                          Problems of the Self
+                          Problems of the Self
 statements P and not-P; all present agree that these are inconsistent,
 i.e., cannot both be true. (2) A and B utter respectively imperatives
 'do x' and 'do not do x', to the same agent with respect to the same
@@ -8345,7 +8101,7 @@ parallel to this; for what would be parallel with reference to the
  be the case (though perhaps not in as simple a case as (1)) that I was
  more certain initially that A's assertion was true than that B's
                                     192
-                        Consistency and realism
+                        Consistency and realism
 assertion was false, and it was only in the light of recognising the
 inconsistency that I saw that in agreeing with A I must disagree
 with B. But the sequence
@@ -8389,7 +8145,7 @@ more naturally say, rejection. Consider the situation, different from
   state, or in any way to reveal, that what is wrong with the imperative
   is that it is inconsistent, and also is a patently supererogatory
                                     193
-                          Problems of the Self
+                          Problems of the Self
 activity in any case. I shall leave this point here for the moment.
 I shall now go on to a second type of asymmetry between the
 cases.
@@ -8433,7 +8189,7 @@ there must in fact be something wrong with the reasons of at least
 one of them. This is lamentably rough; but to try to refine it would
 involve a discussion too elaborate for the present context. I hope that
                                   194
-                       Consistency and realism
+                       Consistency and realism
 there is enough in what I have said to support a contrast with
 imperatives that I shall mention later.
    Turning back now to imperatives, and considering the notion of a
@@ -8477,7 +8233,7 @@ with the imperative in such cases form a continuum with the reasons
  in the sense relevant to sincerity, a speaker means what he says when
  he says e.g., 'I was not in Paris last week/ But while a man who
                                     195
-                              Problems of the Self
+                              Problems of the Self
 makes an insincere assertion does not in one sense mean what he
 says, there is of course another sense in which he does - i.e., he
 intends his words to be taken in their usual sense. In the case of
@@ -8524,7 +8280,7 @@ one's duty, one's position, one's wants, one's feelings towards the
     tatcst du was so gem zu tun ich begehrV: Die Walkiire, Act 3, Scene 3, a
     passage which makes the psychological situation extremely convincing.
                                      196
-                       Consistency and realism
+                       Consistency and realism
 as can be done in the case of assertions. There is just an assemblage of
 different sorts of reasons, appropriate to different sorts of case. This
 makes the notion of 'the best possible reason' for coming out with an
@@ -8568,7 +8324,7 @@ well-founded with assertions, but - so far at least - this does not
  seem to be so with imperatives. If this is true, the next question must
  be: what is it about imperatives that makes this the case?
                                     197
-                          Problems of the Self
+                          Problems of the Self
    We can take up this question by considering first the suggestion
 that it is not in fact anything about imperatives as such: it is at most
 something about imperatives from different sources. For while it
@@ -8611,7 +8367,7 @@ assertions; he has discovered that he has inconsistent beliefs, and the
 reasons for each of two inconsistent beliefs cannot in the end be the
 best possible reasons. Of course, I am not denying that it is possible
 for people to be irrational. But there are logical limits to the degree of
-                       Consistency and realism
+                       Consistency and realism
 irrationality which is compatible with saying that a man is making
 sincere assertions at all, or having genuine beliefs. There are, indeed,
 also logical limits, as I have said, to the degree to which a man can
@@ -8655,7 +8411,7 @@ no hats should be worn in the Smoking Room, we may well be given
 to understand (possibly by the conjunction of those rules alone) that
 no ladies should be in the Smoking Room. Differently from this, the
                                    199
-                         Problems of the Self
+                         Problems of the Self
 rules may be all right because no such case is, independently of the
 rules, expected to arise: if, within the purview of the rules, there
 just aren't any Catholic Socialists, it doesn't matter that what is laid
@@ -8699,7 +8455,7 @@ ations. It can be, in some circumstances, the most rational thing to do
  to ignore a particular difficulty, and keep on with just the rules one
 had before. It cannot be the rational thing to do with a counter-
                                   200
-                       Consistency and realism
+                       Consistency and realism
 example to a pair of generalisations, just to overlook it; if at least
 they are generalisations that one is supposed to believe, and 'overlook'
 does not merely mean 'save up for consideration later'.
@@ -8743,7 +8499,7 @@ make this clear. It is often suggested that the need for consistency
  fictional discourse, fantasy, etc., etc. The necessity of moving towards
  such interpretations is an independent consideration that gives con-
                                    201
-                          Problems of the Self
+                          Problems of the Self
 tent to denying that such cases are simply acceptable instances of
 inconsistent assertion. Whereas a justifiable lie is straightforwardly
 an example of insincere assertion or non-truth-telling, i.e., of what is
@@ -8787,7 +8543,7 @@ metries that I have been arguing for between assertions and such
 the particular significance of consistency in connexion with assertions,
 is to be explained in terms of assertions basically aiming at truth.
                                   202
-                       Consistency and realism
+                       Consistency and realism
 For I do not see how on such a theory it could be more than an
 accident of language that 'is true* signified agreement with assertions
 rather than agreement with anything else. For if all that 'is true' does
@@ -8831,7 +8587,7 @@ possibility of this being so at all. If there is anything in this, the
 peculiar significance of consistency, and the substantial notion of
 truth that appears to go with it, will be linked to the idea which
                                   203
-                         Problems of the Self
+                         Problems of the Self
 may be called 'realism', that there is an independent order of
 things which it is the concern of this sort of discourse to reflect.
    To spell out these lamentably hazy notions would be, if it can
@@ -8875,7 +8631,7 @@ forwardly assertions, two inconsistent moral judgements cannot
  both be true, and hence (truth being the aim of assertions) cannot
  both be acceptable: one of them must be rejected; its reasons
                                   204
-                            Consistency and realism
+                            Consistency and realism
 must be defective; something must be wrong. On a non-realist
 view, the significance of consistency is going to be different: it
 is going to turn on such points as that inconsistent moral principles
@@ -8920,7 +8676,7 @@ desires, practical principles, and moral sentiments are related to
  7
      See Ethical Consistency, pp. 166-86.
                                             205
-                          Problems of the Self
+                          Problems of the Self
 their various verbal expressions - hence, the different ways in which
 inconsistency in verbal expression may reflect a conflict or opposi-
 tion in the inner states which are expressed. The relations between
@@ -8943,7 +8699,7 @@ flict, and in what forms.
 
 
                                   206
-                                 13
+                                 13
               Morality and the emotions
 
 Recent moral philosophy in Britain has not had much to say about
@@ -8983,7 +8739,7 @@ impression that the part they play has not adequately been mirrored
   'reflection on language' is equalled by the diversity of what can be
   called 'the language of morality', and there was no basic reason why
                                     207
-                         Problems of the Self
+                         Problems of the Self
 a generous approach to the linguistic endeavour should not have em-
 braced those features of our speech about morality that reveal or
 suggest the parts played by the emotions; such features, as I shall try
@@ -9027,7 +8783,7 @@ natural enough to look to things quite other than the emotions for
  disreputable (emotivism being regarded as irrationalist) and at the
  same time embarrassingly likely to be taken for a close relative. But
                                     208
-                      Morality and the emotions
+                      Morality and the emotions
 there are things to be learned from emotivism which do not always
 emerge in the course of the ritual exercises; and it is some of these
 that I shall now go on to consider. My aim will not be to reconstruct
@@ -9071,7 +8827,7 @@ ments with the expression of emotion. What form might such linguis-
   sentences at all whose use was governed by semantic rules of this
   type. There certainly are. I shall leave out the case of sentences which
                                       209
-                              Problems of the Self
+                              Problems of the Self
 also say something explicitly about the speaker's emotional state, e.g.
    I am extremely angry with you;
 these raise interesting problems about the relations between state-
@@ -9114,7 +8870,7 @@ some emotion, just as a statement of fact may be. Apart from this,
     ing', in Max Black ed., Philosophy in America (London: Allen and Unwin,
     1965).
                                        210
-                          Morality and the emotions
+                          Morality and the emotions
 expletives are not logically manoeuvrable enough to provide a model
 for moral, or any other value judgements. To adapt to this question
 an argument that has been used by }. R. Searle2 against a more so-
@@ -9157,7 +8913,7 @@ rude - or possibly, and more interestingly, if I were myself fairly
      meaning-link between the expletive and its expressive function, since the
      expressive function is preserved in such contexts.
                                         211
-                         Problems of the Self
+                         Problems of the Self
 infatuated, and disagreeing only about the incomparability of her
 loveliness tonight; in which case, paradoxically, the denied expressive
 terms are still doing their expressive job. This resistance to losing
@@ -9200,7 +8956,7 @@ instruction: Just Stick to the Facts, Explanations and Moral Assess-
 ments, Please.
     What would the isolated core look like? Here there are difficulties
                                   212
-                      Morality and the emotions
+                      Morality and the emotions
 which particularly centre on the expression * little coward'. While
 'coward' is an explanatory term, it is not a very unemotional one;
 and if 'little' refers to the man's moral, rather than his physical
@@ -9243,7 +8999,7 @@ one order or in another. We are interested in what moral view he
 takes of the situations, how those situations look to him in the light
 of his moral outlook.
                                   213
-                         Problems of the Self
+                         Problems of the Self
    Could we in this broader sense of 'moral judgement' say - to
 revert to our example - that the replacement sentence expressed
 the same moral judgement as the first one? Does it lay before
@@ -9287,7 +9043,7 @@ cludes also such items as 'giving a warning', 'making a promise',
 promoted by the work of the late J. L. Austin, has been prominent in
 recent philosophy, not least in moral philosophy, where particularly
                                   214
-                      Morality and the emotions
+                      Morality and the emotions
 such linguistic activities as 'commending' have been to the fore. I
 think that valuable light has been shed by these studies, and that this
 will continue to be so.
@@ -9331,7 +9087,7 @@ of promising: an insincere promise is quite certainly a promise.
 Promising, however, has the feature not present in the last case, that
 the application of 'sincere' and 'insincere' is absolutely clear and well
                                   215
-                               Frobhms of the Self
+                               Frobhms of the Self
 established - an insincere promise is a promise made without the
 intention of carrying it out. Yet, one may perhaps repeat, it is quite
 certainly made: in the phrase 'insincere promise*, the word 'insincere*
@@ -9376,7 +9132,7 @@ ing, commending, etc. This assimilation tends to conceal the many
     For the use of this term, cf. P. T. Geach, 'Good and evil', Analysis 17 (1956),
     P. 33.
                                          216
-                           Morality and the emotions
+                           Morality and the emotions
 and vital respects in which speech-acts associated with moral utter-
 ances belong rather to types (5) and (6). It inclines us to forget that a
 man who sincerely makes some moral utterance expresses his judge-
@@ -9421,7 +9177,7 @@ boredom, contempt, dislike, scepticism - that is to say, express views
     talk about a 'performative' analysis of these expressions (as opposed, presum-
     ably, to an 'autobiographical' analysis of them) obscures this obvious fact
                                            217
-                          Problems of the Self
+                          Problems of the Self
 and feelings about the objects or persons that they grade or com-
 mend, and not merely go about grading or commending them.
    I said earlier that our emotivist suggestion, that the possession of
@@ -9465,7 +9221,7 @@ way. I shall now try to consider this contribution.
  way which uses no such terms, but makes it perfectly clear that he
  feels strongly about the matter. He does not have to use expressions
                                     218
-                      Morality and the emotions
+                      Morality and the emotions
 like 'little coward', 'outrageous', 'appalling', 'ghastly mess', 'crook',
 'disgusting' and so forth, nor yet the vocabulary of ordinary
 obscenities and swear-words: though it is worth remembering that
@@ -9509,7 +9265,7 @@ serious moral view about it.
   judgements connected with displays of emotion?', Dialogue, IV (1965), pp.
   206-23.
                                    219
-                         Problems of the Self
+                         Problems of the Self
    It is not, of course, the criterion, nor an infallible one. Thus it is
 possible for a man to express strong feelings in his moral remarks
 about a matter, himself regard the feelings as related to the moral
@@ -9553,7 +9309,7 @@ pute, since these are obviously matters on which one's views cannot
  theories certainly involve the conclusion that such a world is con-
  ceivable; but I do not think that it is.
                                    220
-                       Morality and the emotions
+                       Morality and the emotions
     The difficulties in such a conception are both psychological and
 logical. I shall consider just one, logical, difficulty. I shall try to show
 a point of involvement of the emotions in what may seem an indepen-
@@ -9597,7 +9353,7 @@ of a general disposition to action of a certain sort. All these considera-
  tions need considerable qualification; I shall not try to discuss that
 here. I shall assume that a general disposition to do actions of a
                                     221
-                         Problems of the Self
+                         Problems of the Self
 certain type is of at least some relevance to the question of a man's
 sincerity in making a particular moral judgement. The question that
 concerns us is rather: how is the relevant type of actions determined?
@@ -9641,7 +9397,7 @@ go on to do and say can be interpreted as one pattern of behaviour
 only because we understand that the man feels that he has to take
 reparative action, because we see these activities of his as in various
                                   222
-                     Morality and the emotions
+                     Morality and the emotions
 ways expressions of his feeling bad about what he has done or failed
 to do in the past.
     I am suggesting, then, that reference to a man's emotions has a
@@ -9685,7 +9441,7 @@ is that what is relevant for our understanding of his moral disposition
      That the emotions must be regarded both as productive of action,
   and also as states to which we are subject, is an important point,
                                   223
-                              Problems of the Self
+                              Problems of the Self
 which has been stressed by a number of writers.6 Even in their latter
 aspect, of course, they are not, as the same writers have pointed out,
 blank occurrences like certain kinds of bodily sensation; for they
@@ -9730,7 +9486,7 @@ displace it, this is not because it is an emotion but because it is an
     ceedings of the Aristotelian Society (1961-2), pp. 116-34; and A. Kenny,
     Action, Emotion and Will (London: Routledge & Kegan Paul, 1963), Ch. 3.
                                          224
-                       Morality and the emotions
+                       Morality and the emotions
     The notions of appropriateness, correctness and so forth in the
 object of course cry out for examination; and they wear on their
 front the fact that they are in some part evaluative. What should be
@@ -9774,7 +9530,7 @@ of the emotions.
 further, one is going to say (as I have perhaps not yet said explicitly,
  but am very happy to) that one's conception of an admirable human
                                       225
-                          Problems of the Self
+                          Problems of the Self
 being implies that he should be disposed to certain kinds of emotional
 response, and not to others; one has to try to answer the very power-
 ful claim of Kant that this is impossible. Nor is this just a claim
@@ -9818,7 +9574,7 @@ of other considerations, of applying some sense of proportion, without
  but the deification of man.
     Next, the emotions are passively experienced, they happen to us
                                      226
-                      Morality and the emotions
+                      Morality and the emotions
 - but moral worth can attach only to what we freely do, to those
 respects in which we are rationally active. Here there is everything to
 be said; and I shall not try to take up the most immediate points, that
@@ -9862,7 +9618,7 @@ logical distinction; and if someone did claim to have done this, I think
  sistencies, who make the human gesture. While there is something
  in that conclusion, there cannot be anything in it for Kant.
                                     227
-                          Problems of the Self
+                          Problems of the Self
    Lastly, Kant urges that men differ very much in their emotional
 make-up, as a result of many natural factors. As he remarks in a
 famous and moving passage, some find that the human gesture comes
@@ -9906,7 +9662,7 @@ in stressing, for instance, characteristics specially associated with
 monied or academic persons. One might say, reworking in more
 empirical form Kant's Rousseauesque moral republic, that some more
                                     228
-                     Morality and the emotions
+                     Morality and the emotions
 democratic conception should be preferred; and among the relevant
 sorts of characteristic, the capacity for creative emotional response
 has the advantage of being, if not equally, at least broadly, distri-
@@ -9916,7 +9672,7 @@ buted.
 
 
                                  229
-                                         14
+                                         14
                        The idea of equality
 
 The idea of equality is used in political discussion both in statements
@@ -9957,7 +9713,7 @@ interpretation, we should not seek for some special characteristics in
     and I. Berlin, 'Equality', Froceedings of the Aristotelian Society, LVI (1955-6),
     pp. 281 seq.
                                          230
-                          The idea of equality
+                          The idea of equality
 be admitted that when the statement of equality ceases to claim more
 than is warranted, it rather rapidly reaches the point where it claims
 less than is interesting. A similar discomfiture tends to overcome the
@@ -10001,7 +9757,7 @@ because they are regarded not as gratuitously egalitarian, aiming at
 equal treatment for reasons, for instance, of simplicity or tidiness,
 but as affirming an equality which is believed in some sense already
                                   231
-                           Problems of the Self
+                           Problems of the Self
 to exist, and to be obscured or neglected by actual social arrange-
 ments.
 
@@ -10045,7 +9801,7 @@ itself to commit oneself to a certain kind of moral principle or outlook.
 Thus, in the case under discussion, to say (as one would naturally say)
 that the fact that a man is black is, by itself, quite irrelevant to the
                                     232
-                          The idea of equality
+                          The idea of equality
 issue of how he should be treated in respect of welfare, etc, would,
 on this view, be to commit to oneself to a certain sort of moral
 principle. This view, taken generally, seems to me quite certainly
@@ -10088,7 +9844,7 @@ humanity, which may all the more be neglected in political and social
 arrangements. For instance, there seems to be a characteristic which
 might be called 'a desire for self-respect'; this phrase is perhaps not
 too happy, in suggesting a particular culturally-limited, bourgeois
-                          Problems of the Self
+                          Problems of the Self
 value, but I mean by it a certain human desire to be identified with
 what one is doing, to be able to realise purposes of one's own, and not
 to be the instrument of another's will unless one has willingly
@@ -10132,7 +9888,7 @@ achievement of the highest kind of moral worth should depend on
 natural capacities, unequally and fortuitously distributed as they are;
 and this feeling is backed up by the observation that these natural
                                    234
-                          The idea of equality
+                          The idea of equality
 capacities are not themselves the bearers of the moral worth, since
 those that have them are as gifted for vice as for virtue.
    This strain of thought has found many types of religious ex-
@@ -10175,7 +9931,7 @@ characteristic of being a free and rational will The ground of the
  instance, of men's responsibility for their actions is one to which
  empirical considerations are clearly relevant, and one which moreover
  receives answers in terms of different degrees of responsibility and
-                          Problems of the Self
+                          Problems of the Self
 different degrees of rational control over action. To hold a man respon-
 sible for his actions is presumably the central case of treating him as a
 moral agent, and if men are not treated as equally responsible, there
@@ -10219,7 +9975,7 @@ world (including the label) from his point of view. This injunction
 will be based on, though not of course fully explained by, the notion
 that men are conscious beings who necessarily have intentions and
                                    236
-                         The idea of equality
+                         The idea of equality
 purposes and see what they are doing in a certain light. But there
 seem to be further injunctions connected with the Kantian maxim,
 and with the notion of 'respect', that go beyond these considerations.
@@ -10263,7 +10019,7 @@ cendental interpretation. We then moved, via the idea of 'respect', to
  who are necessarily to some extent conscious of themselves and of
  the world they live in. (I omit here, as throughout the discussion,
                                      237
-                         Problems of the Self
+                         Problems of the Self
 the clinical cases of people who are mad or mentally defective, who
 always constitute special exceptions to what is in general true of
 men.) This proposition does not assert that men are equally conscious
@@ -10307,7 +10063,7 @@ eventually undermined by the growth of people's reflective con-
 sciousness about their role, still more when it is combined with
 the thought that what they and the others have always thought
                                   238
-                         The idea of equality
+                         The idea of equality
 about their roles in the social system was the product of the social
 system itself.
     It might be suggested that a certain man who admitted that
@@ -10351,7 +10107,7 @@ of inequality, inequality of need and inequality of merit, with a
 corresponding distinction between goods - on the one hand, goods
  demanded by the need, and on the other, goods that can be earned
                                   239
-                          Problems of the Self
+                          Problems of the Self
 by the merit. In the case of needs, such as the need for medical
 treatment in case of illness, it can be presumed for practical purposes
 that the persons who have the need actually desire the goods in
@@ -10395,7 +10151,7 @@ can once more apply the notions of equality and inequality: not now
 in connexion with the inequality between the well and the ill, but in
 connexion with the inequality between the rich ill and the poor ill,
                                   240
-                         The idea of equality
+                         The idea of equality
 since we have straightforwardly the situation of those whose needs
 are the same not receiving the same treatment, though the needs
 are the ground of the treatment. This is an irrational state of
@@ -10439,7 +10195,7 @@ socially operative, this really says something.
  respect of the relevance of reasons. It is a matter of logic that
 particular sorts of needs constitute a reason for receiving particular
                                     241
-                          Problems of the Self
+                          Problems of the Self
 sorts of good. It is, however, in general a much more disputable
 question whether certain sorts of merit constitute a reason for
 receiving certain sorts of good. For instance, let it be supposed for
@@ -10483,7 +10239,7 @@ ing that wealth itself constitutes the ground, the defender of the
   understanding this in the normal political sense of equality of
   opportunity for everyone in society to secure certain goods. This
                                      242
-                         The idea of equality
+                         The idea of equality
 notion is introduced into political discussion when there is question
 of the access to certain goods which, first, even if they are not
 desired by everyone in society, are desired by large numbers of
@@ -10528,7 +10284,7 @@ formulation is not really very clear. For suppose grammar school
  parents' wealth. But does not the criterion of ability exclude a priori
                                     2
                                       43
-                         Problems of the Self
+                         Problems of the Self
 a certain section of people, viz. those that are not able - just as the
 other excludes a priori those who are not wealthy? Here it will
 obviously be said that this was not what was meant by a priori
@@ -10572,7 +10328,7 @@ in fact it has, and that the poor now have the opportunity of becom-
 ing warriors - it is just bad luck that their characteristics are such
 that they do not pass the test. 'We are not/ they might say, 'exclud-
                                   244
-                             The idea of equality
+                             The idea of equality
 ing anyone for being poor; we exclude people for being weak, and it
 is unfortunate that those who are poor are also weak/
    This answer would seem to most people feeble, and even cynical.
@@ -10617,7 +10373,7 @@ contents oneself with applying the same criteria to Smith and Jones
     See on this C. A. R. Crosland, 'Public Schools and English Education', En-
     counter (July 1961)
                                       245
-                              Problems of the Self
+                              Problems of the Self
 at, say, the age of 11; what one is doing there is to apply the same
 criteria to Smith as affected by favourable conditions and to Jones as
 affected by unfavourable but curable conditions. Here there is a
@@ -10662,7 +10418,7 @@ ability; but that the brain constitution could in fact be changed by
      ference with the genetic material. The dizzying consequences of this I shall
      not try to explore.
                                         246
-                           The idea of equality
+                           The idea of equality
 I think, be moral rather than metaphysical They need not concern
 us here. What is interesting about the fantasy, perhaps, is that if
 one reached this state of affairs, the individuals would be regarded
@@ -10707,7 +10463,7 @@ one hand, is invoked in connexion with the distribution of certain
     See, for example, Michael Young, The Rise of the Meritocracy (London:
     Thames and Hudson, 1958).
                                     247
-                          Problems of the Self
+                          Problems of the Self
 goods, some at least of which are bound to confer on their possessors
 some preferred status or prestige. On the other hand, the idea of
 equality of respect is one which urges us to give less consideration to
@@ -10751,7 +10507,7 @@ of parents to secure a position for their children at least as good as
  that would inevitably proceed. If, moreover, as I have suggested, it is
  not really known how far, by new forms of social structure and of
                                   248
-                         The idea of equality
+                         The idea of equality
 education, these conflicting claims might be reconciled, it is all the
 more obvious that we should not throw one set of claims out of the
 window; but should rather seek, in each situation, the best way of
@@ -10764,7 +10520,7 @@ noble and substantial political ideal.
 
 
                                  249
-                                   15
+                                   15
                    Egoism and altruism
 
 I shall be concerned with issues of egoism as against morality, and
@@ -10804,7 +10560,7 @@ morality.
  regulate the relations of an agent to various groups of persons of
   varying degrees of social remoteness from him; and that altruism is
                                      250
-                          Egoism and altruism
+                          Egoism and altruism
 a disposition which is to some degree necessary in regulating his
 relations with the most extensive group to which the morality applies,
 including the most socially remote. This admits the possibility of a
@@ -10848,7 +10604,7 @@ introduced.
   certainly limits (which I shall not try to discuss here) to the respects
   in which he can consistently regard himself as a splendid figure.
                                       251
-                           Problems of the Self
+                           Problems of the Self
    What I shall first do is to consider a set of arguments designed
 to show that in order to occupy any territory at all, or any mini-
 mally extensive territory, the egoist already commits himself to
@@ -10892,7 +10648,7 @@ already given up being one.
  fact, is not going to undo him before we even start. If we now turn
  to properties of the egoist's thought and practice, there are certain
                                     252
-                          Egoism and altruism
+                          Egoism and altruism
 arguments which aim to show that even a minimal commitment to
 rationality on his part is going to qualify his egoism. We might see
 in these arguments a version of the basically Kantian enterprise of
@@ -10936,7 +10692,7 @@ what he, and anyone else in the same circumstances, ought to do, and
   harmful to others, the question might be put 'is it all right for him to
   do this?', and it might be said both that if he is rational he must
                                       253
-                          Problems of the Self
+                          Problems of the Self
 have an answer to this question, and that either answer is damaging
 for his egoism; since if he says 'no', he is condemned out of his own
 mouth, while if he says 'yes', he commits himself to the view that it
@@ -10980,7 +10736,7 @@ which is what he was supposed to be doing. To take a particular
   One might be disposed to claim that what is wrong with it is that
   anyone else could equally say that, but that would not be strictly
                                     254
-                        Egoism and altruism
+                        Egoism and altruism
 accurate, since we can credit those words with just enough content
 to admit that if someone else uttered them, they would not be
 making the same statement. But it is a small quibble, since the egoist
@@ -11023,7 +10779,7 @@ needed was an argument to show that he gets into intellectual trouble
   of anti-trust legislation. None of that can be his concern. But he can
   comprehensibly say 'it is all right for them to do those things', if
   he is taken to mean something like 'let them get on with it, if they
-                          Problems of the Self
+                          Problems of the Self
 want to: you are not going to find me moralising about it*. Which
 is not to say that he has permitted them to do it, or registered that
 it is permitted; just as a really permissive society would not so much
@@ -11067,7 +10823,7 @@ mal use of 'all right' commits our man to nothing on that score -
   line of argument even initially plausible. It rightly draws attention to
    the universality of reasons in the one sense in which that indeed
                                     256
-                              Egoism and altruism
+                              Egoism and altruism
 obtains, namely that if P constitutes a reason for A to do X in
 certain circumstances, then P equally constitutes a reason for B to do
 X in similar circumstances (if we include relevant differences between
@@ -11114,7 +10870,7 @@ that Nagel himself does not claim demonstrative force for the move
     thing. I hope to make these rather telegraphic comments more comprehen-
     sible on another occasion.
                                         257
-                               Problems of the Self
+                               Problems of the Self
 to impersonal reasons, and therefore even if Nagel were right, the
 egoist would not under pain of inconsistency have to move from the
 level of subjective reasons, which he certainly must acknowledge,
@@ -11159,7 +10915,7 @@ ness. Our egoist, if he was ill-advised to use the language of goodness
  2
      Frincipia Ethica (Cambridge, 1903), p. 99.
                                          258
-                         Egoism and altruism
+                         Egoism and altruism
 failing is perhaps implicit in certain Wittgensteinian doctrines in the
 philosophy of mind, which claim that the understanding that some-
 one is in pain involves a display of a wide range of characteristic
@@ -11203,7 +10959,7 @@ ality, indifference, insensitivity, and psychopathic unawareness, and
    moral dispositions itself involves the loss of many satisfactions, not
    merely in general (as almost all would agree), but also in those very
                                      259
-                              Problems of the Self
+                              Problems of the Self
 areas of human contact which are supposedly specially lost to the
 egoist. Everywhere there is loss, and to suppose that those dispositions
 demanded on the one hand by the external justification, and on the
@@ -11248,7 +11004,7 @@ T in the propositional content. However, it will, in the egoist's
 3
     Action, Emotion and Will (London: Routledge, 1963).
                                       260
-                          Egoism and altruism
+                          Egoism and altruism
 case, depend on some desire which does, as for instance a desire that
 he receive some money. I shall use the term 'I-desire' for a desire
 whose propositional content requires T o r related expressions ('my'
@@ -11292,7 +11048,7 @@ every desire must be an I-desire at least to that extent. But even if
      Second, a related muddled argument about belief. I am, neces-
  sarily, not in a position to distinguish the two following states of
                                     261
-                         Problems of the Self
+                         Problems of the Self
 affairs: that p, and that I believe that p. Hence I am not in a position
 to distinguish the desire that p, and the desire that I believe that p,
 since the satisfactions of those two just are the two indistinguish-
@@ -11336,7 +11092,7 @@ true?'; the thesis correspondingly cannot hold that there is no dis-
   non-I desires which are not, one might mention, first and nearest to
   altruism, a concern for the welfare of material objects, as one might
                                    z6z
-                             Egoism and altruism
+                             Egoism and altruism
 want the sideboard to be kept polished. Next, there are aesthetic
 wants, as that a picture be better displayed, or a certain building re-
 vealed, or another building pulled down - people leave money for
@@ -11382,7 +11138,7 @@ fused state of mind; his vivid fantasy of the eventual outcome might
      It is a nice point in the theory of reference, whether he succeeded; the only
      identification we have of him, so far as I know, is just this.
                                            263
-                               Problems of the Self
+                               Problems of the Self
    Suppose that a man has a basically non-I desire, and that is -
 moreover - a desire for someone else's welfare: thus, it might be a
 desire that Mary be looked after. This is a desire to the effect that
@@ -11427,7 +11183,7 @@ end.
     For a relevant ambiguity in this notion, cf. 'The self and the future', pp. 48
     seq.
                                         264
-                         Egoism and altruism
+                         Egoism and altruism
    However, what his preference, being of the benevolent kind it is,
 does import is the thought that it would be a good thing for Mary, or
 in Mary's interests, if S came about. Granted his desires, that thought
@@ -11470,83 +11226,3 @@ particular benevolent non-I desires to more general altruistic dis-
  the particular and the affective to the rational and universal that
  makes all the difference; it is rather the Humean step - that is to say,
  the first Humean step - from the self to someone else.
-                                     265
-                             Sources
-
-The papers reprinted in this book were originally published in the
-following places, and under the following titles:
-Tersonal Identity and Individuation', PAS LVII (1956-7); 'Personal
-Identity and Bodily Continuity - A reply', Analysis xxi (i960);
-'Imagination and the Self, British Academy Annual Philosophical
-Lecture, 1966; 'The Self and the Future', PR LXXIX (1970); 'Are
-Persons Bodies?', in S. Spicker ed., The Philosophy of the Body
-(Chicago: Quadrant Books, 1970); 'Mr Strawson on Individuals',
-Philosophy xxxvi (1961); 'Knowledge and Meaning in the Philosophy
-of Mind', PR LXXVII (1968); 'Deciding to Believe', in H. Kiefer and
-M. Munitz eds., Language, Belief and Metaphysics (Albany: State
-University of NY Press, 1970); 'Imperative Inference', Analysis Supp.
-vol. (1963); 'Ethical Consistency', PASS xxxix (1965); 'Consistency
-and Realism', PASS XL (1966); 'Morality and the Emotions', Inaugural
-Lecture at Bedford College, London, 1965: and in J. Casey ed.,
-Morality and Moral Reasoning (London: Methuen, 1971); The Idea
-of Equality', in P. Laslett and G. Runciman eds., Politics, Philosophy
-and Society 11 (Oxford: Blackwell, 1962).
-'The Makropoulos Case: reflections on the tedium of immortality',
-and 'Egoism and Altruism':firstpublished in this volume.
-PAS: Proceedings of the Aristotelian Society.
-PASS: Supplementary volumes to those Proceedings.
-PR:   Philosophical Review.
-
-
-
-
-                                266
-                             Index of names
-
-Aeschylus 173                             Locke, John 1, 3, 4, 13, 72
-Alston, W. P. 210                         Lucretius 83-5, 87-9, 99-100
-Anscombe, G. E. M. 156
-Aristotle 89, 234, 239                    Martin, C. B. 23, 142
-Astray, Millan gg                         Mayo, Bernard 156
-Armstrong, D. M. 75                       McKinsey, J. C. C. 187
-Austin, J. L. 183, 214                    Mill, J. S. 208
-                                          Moore, G. E. 137, 258
-Bar-Hillel, Y. 162-3                      Morgenbesser, Sydney 75
-Beauchamp, Sally 15-18
-Bennett, Jonathan 159                     Nagel, Thomas 87-9, 257-8
-Berkeley, George 26, 31, 38, 45           Nehrlich, G. C. 23
-Berlin, Isaiah 230
-Braybrooke, D. 219                        Parfit, Derek 93
-Butler, Joseph 4                          Pears, D. F. 165
-                                          Peters, R. S. 224
-Capek, K. 82                              Plato 41, 89, 169
-Coburn, R. C. 19-25 passim                Prince, Morton 15, 17,18
-Crosland, C. A. R. 245
-                                          Ross, Alf 154
-Dennis, Nigel 3                           Ross, David 176
-Descartes, Rene 27, 49, 66, 75, 122       Russell, Bertrand 111
-Deutscher, Max 142                        Ryle, Gilbert 44
-
-Dummett, Michael 190-1                    Searle, J. R. 211
-                                          Schlick, M. 40, 45
-Epicurus 83                               Shoemaker, Sydney 47, 77, 78, 79, 127-
-                                            35 passim
-Flew, A. G. N. 4                          Sophocles 87
-Geach, Peter 153, 216                     Spender, Stephen 208
-Grice, H. P. 159-64                       Spinoza, Benedict de 96-8
-                                          Srrawson, P. F. 17, 64-70, 101-26
-Hampshire, Stuart 96-8, 125                 passim, 132
-Hare, R. M. 159-65, 188-9
-Herostratus 263                           Thomas, Hugh 99
-Hume, David 13, 148, 260
-Hofstadter, A. 187                        Unamuno, Miguel de 98-9
-
-James, William 17                         Wagner, Richard 196
-Janacek, L. 82                            Wiggins, David 77, 78
-                                          Wittgenstein, L. 12
-Kant, Immanuel 128, 225-9, 235-7, 2 6     Wollheim, Richard 230
-Kenny, A. 168, 224, 260
-                                          Young, Michael 247
-Leibniz, G. W. 42
-                                        267
-
