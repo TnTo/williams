@@ -223,7 +223,17 @@ for f in *.txt; do
     fi
 
     if [ "$f" == "Shame_and_Necessity.txt" ]; then
-        :
+        sed -i '/^http/d' $f;
+        sed -i '/^[― 0-9ixv]*$/d' $f;
+        sed -i '/^11\/13\/2007 9\:45 PM$/d' $f;
+        sed -i '/^[0-9]\+ of [0-9]\+$/d' $f;
+        sed -i '/^Shame and Necessity$/d' $f;
+        sed -i 's/\[[0-9]\+\]//g' $f;
+
+        # Anti-hypenation
+        sed -i -z 's/\([a-z]\)-\n\([a-z]\)/\1\2/g' $f;
+        # Anti line wrap
+        sed -i -z 's/\([^.!?]\)\n\([^A-Z]\)/\1 \2/g' $f;
     fi
 
     if [ "$f" == "Truth_and_Truthfulness.txt" ]; then
