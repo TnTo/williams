@@ -1,2 +1,4 @@
 books/pdf_epub
 books/*/*.zip
+
+.vscode
