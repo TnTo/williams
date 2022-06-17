@@ -34,8 +34,8 @@ for f in *.txt; do
     fi
 
     if [ "$f" == "Moral_Luck.txt" ]; then
-        sed -i 's/�//g' $f;
-        sed -i '1,205 d' $f;
+        tr -d '\014' < $f > tmp.txt && mv tmp.txt $f;
+        sed -i '1,195 d' $f;
     fi
 
     if [ "$f" == "Morality.txt" ]; then
@@ -127,7 +127,26 @@ for f in *.txt; do
     fi
 
     if [ "$f" == "Moral_Luck.txt" ]; then
-        : # TODO
+        sed -i '/^[^a-oq-zA-HJ-Z]*$/d' $f;
+
+        sed -i '/^Moral luck/d' $f;
+        sed -i '/Persons, character and morality/d' $f;
+        sed -i '/Utilitarianism and moral self-indulgence/d' $f;
+        sed -i '/Politics and moral character/d' $f;
+        sed -i '/Conflicts of values/d' $f;
+        sed -i '/Justice as a virtue/d' $f;
+        sed -i "/Rawls and Pascal's wager/d" $f;
+        sed -i '/Internal and external reasons/d' $f;
+        sed -i '/Ought and moral obligation/d' $f;
+        sed -i '/Practical necessity/d' $f;
+        sed -i '/The truth in relativism/d' $f;
+        sed -i '/Wittgenstein and idealism/d' $f;
+        sed -i '/Another time, another place, another person/d' $f;
+        
+        # Anti line wrap
+        sed -i -z 's/\([^.!?]\)\n\([^A-Z]\)/\1 \2/g' $f;
+
+        # (!) Notes breaks the flow of the text
     fi
 
     if [ "$f" == "Morality.txt" ]; then
@@ -240,5 +259,6 @@ for f in *.txt; do
         :
     fi
 
-
 done
+
+zip txt_clean.zip *.txt
