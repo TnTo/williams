@@ -1,7 +1,11 @@
 #!/bin/bash
 
+cd books/txt_og
+zip txt.zip *.txt
+cd ../..
+
 # Create folder
-mkdir -p books/txt_clean
+mkdir -p books/txt_clean;
 
 # Copy og
 for f in books/txt_og/*.txt; do
@@ -33,6 +37,12 @@ for f in *.txt; do
         sed -i '1,244 d' $f;
     fi
 
+    if [ "$f" == "Making_Sense_of_Humanity.txt" ]; then
+        tr -d '\014' < $f > tmp.txt && mv tmp.txt $f;
+        sed -i '10705,$ d' $f;
+        sed -i '1,222 d' $f;
+    fi
+
     if [ "$f" == "Moral_Luck.txt" ]; then
         tr -d '\014' < $f > tmp.txt && mv tmp.txt $f;
         sed -i '1,195 d' $f;
@@ -41,6 +51,11 @@ for f in *.txt; do
     if [ "$f" == "Morality.txt" ]; then
         tr -d '\014' < $f > tmp.txt && mv tmp.txt $f;
         sed -i '1,166 d' $f;
+    fi
+
+    if [ "$f" == "Obscenity_and_Film_Censorship.txt" ]; then
+        sed -i '5389,$ d' $f;
+        sed -i '1,548 d' $f;
     fi
 
     if [ "$f" == "On_Opera.txt" ]; then
@@ -62,6 +77,11 @@ for f in *.txt; do
     if [ "$f" == "Shame_and_Necessity.txt" ]; then
         sed -i '4758,$ d' $f;
         sed -i '1,32 d' $f;
+    fi
+
+    if [ "$f" == "The_Sense_of_the_Past.txt" ]; then
+        sed -i '4201,$ d' $f;
+        sed -i '1,366 d' $f;
     fi
 
     if [ "$f" == "Truth_and_Truthfulness.txt" ]; then
@@ -126,6 +146,10 @@ for f in *.txt; do
         sed -i 's/\s*[0-9]\+$//g' $f;
     fi
 
+    if [ "$f" == "Making_Sense_of_Humanity.txt" ]; then
+        :
+    fi
+
     if [ "$f" == "Moral_Luck.txt" ]; then
         sed -i '/^[^a-oq-zA-HJ-Z]*$/d' $f;
 
@@ -155,6 +179,10 @@ for f in *.txt; do
         sed -i -z 's/\([a-z]\)-\n\([a-z]\)/\1\2/g' $f;
         # Anti line wrap
         sed -i -z 's/\([^.!?]\)\n\([^A-Z]\)/\1 \2/g' $f;
+    fi
+
+    if [ "$f" == "Obscenity_and_Film_Censorship.txt" ]; then
+        :
     fi
 
     if [ "$f" == "On_Opera.txt" ]; then
@@ -256,6 +284,10 @@ for f in *.txt; do
     fi
 
     if [ "$f" == "Truth_and_Truthfulness.txt" ]; then
+        :
+    fi
+
+    if [ "$f" == "The_Sense_of_the_Past.txt" ]; then
         :
     fi
 
