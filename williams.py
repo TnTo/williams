@@ -11,6 +11,11 @@ nltk.download("averaged_perceptron_tagger")
 nltk.download("universal_tagset")
 
 # %%
+def pos_tag_sents(sentences, tagger, tagset="universal"):
+    lang = "eng"
+    return [nltk.tag._pos_tag(sent, tagset, tagger, lang) for sent in sentences]
+
+# %%
 def mean(list):
     return sum(list) / len(list)
 
@@ -22,17 +27,19 @@ def is_adj(w):
 # %%
 files = glob.glob("books/txt_clean/*.txt")
 texts = {f[16:-4]: open(f).read() for f in files}
+titles = texts.keys()
 
 # %%
 words = {
-    title: [word_tokenize(s) for s in sent_tokenize(texts[title])] for title in texts
+    title: [word_tokenize(s) for s in sent_tokenize(texts[title])] for title in titles
 }
 
 # %%
-tags = {title: nltk.pos_tag_sents(words[title], tagset="universal") for title in words}
+tagger = nltk.tag.perceptron.PerceptronTagger()
+tags = {title: pos_tag_sents(words[title], tagger) for title in titles}
 
 # %%
-flatten_tags = {title: [w for s in tags[title] for w in s] for title in tags}
+flatten_tags = {title: [w for s in tags[title] for w in s] for title in titles}
 
 
 # %%
@@ -74,7 +81,7 @@ df["#adj/#adjU"] = df["#adj"] / df["#adjU"]
 
 # %%
 tabellone = pandas.DataFrame(
-    [(title, w[0], w[1]) for title in tags for s in tags[title] for w in s]
+    [(title, w[0], w[1]) for title in titles for s in tags[title] for w in s]
 )
 
 # %%
