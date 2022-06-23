@@ -219,7 +219,31 @@ for f in *.txt; do
     fi
 
     if [ "$f" == "Obscenity_and_Film_Censorship.txt" ]; then
-        :
+        sed -i '/^[A-Z]$/d' $f;
+        sed -i '/^[ivx]*$/d' $f;
+        sed -i '/^[0-9.]*$/d' $f;
+
+        # Loose page numbers and notes
+        # sed -i 's/\s*[0-9]\+$//g' $f;
+
+        sed -i '/^preface$/d' $f;
+        sed -i '/^obscenity and film censorship$/d' $f;
+        sed -i '/^the committee’s task$/d' $f;
+        sed -i '/^the present law$/d' $f;
+        sed -i '/^the censorship of films$/d' $f;
+        sed -i '/^the situation$/d' $f;
+        sed -i '/^law, morality and the freedom of expression( [0-9]*)\+$/d' $f;
+        sed -i '/^harms?$/d' $f;
+        sed -i '/^offensiveness$/d' $f;
+        sed -i '/^pornography, obscenity and art( [0-9]*)\+$/d' $f;
+        sed -i '/^the restriction of publications( [0-9]*)\+$/d' $f;
+        sed -i '/^the prohibition of publications( [0-9]*)\+$/d' $f;
+        sed -i '/^live entertainment$/d' $f;
+        sed -i '/^summary of our proposals( [0-9]*)\+$/d' $f;
+        sed -i '/^$/d' $f;
+
+        # Anti line wrap
+        sed -i -z 's/\([^.!?]\)\n\([^A-Z]\)/\1 \2/g' $f;
     fi
 
     if [ "$f" == "On_Opera.txt" ]; then
@@ -321,11 +345,13 @@ for f in *.txt; do
     fi
 
     if [ "$f" == "Truth_and_Truthfulness.txt" ]; then
-        :
+        # Loose page numbers and notes
+        sed -i 's/\s*[0-9]\+$//g' $f;
     fi
 
     if [ "$f" == "The_Sense_of_the_Past.txt" ]; then
-        :
+        # Loose page numbers and notes
+        sed -i 's/\s*[0-9]\+$//g' $f;
     fi
 
 done
