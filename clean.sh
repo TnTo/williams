@@ -147,7 +147,44 @@ for f in *.txt; do
     fi
 
     if [ "$f" == "Making_Sense_of_Humanity.txt" ]; then
-        :
+        sed -i '/^Cambridge Books Online © Cambridge University Press, 2010$/d' $f;
+        sed -i -z 's/Cambridge\nBooks Online © Cambridge University Press, 2010//g' $f;
+        sed -i -E '/^Downloaded from Cambridge Books Online by IP 195.120.182.170 on Mon Feb 22 18:[0-9]{2}:[0-9]{2} GMT 2010.$/d' $f;
+        sed -i -E 's#^http://dx.doi.org/10.1017/CBO9780511621246.0[0-9]{2}$##g' $f;
+        sed -i '/^Action, freedom, responsibility$/d' $f;
+        sed -i '/^How free does the will need to be?$/d' $f;
+        sed -i '/^Voluntary acts and responsible agents$/d' $f;
+        sed -i '/^Internal reasons and the obscurity of blame$/d' $f;
+        sed -i '/^Moral incapacity$/d' $f;
+        sed -i '/^Acts and omissions$/d' $f;
+        sed -i "/^Nietzsche's minimalist moral psychology$/d" $f;
+        sed -i '/^Philosophy, evolution, and the human sciences$/d' $f;
+        sed -i '/^Making sense of humanity$/d' $f;
+        sed -i '/^Evolutionary theory and epistemology$/d' $f;
+        sed -i '/^Evolution, ethics, and the representation problem$/d' $f;
+        sed -i '/^Formal structures and social reality$/d' $f;
+        sed -i '/^Formal and substantial individualism$/d' $f;
+        sed -i "/^Saint-Just's illusion$/d" $f; 
+        sed -i '/^Ethics$/d' $f;
+        sed -i '/^The point of view of the universe$/d' $f;  #6000ca
+        sed -i '/^Ethics and the fabric of the world$/d' $f;
+        sed -i '/^What does intuitionism imply?$/d' $f;
+        sed -i '/^Professional morality and its dispositions$/d' $f;
+        sed -i '/^Who needs ethical knowledge?$/d' $f;
+        sed -i '/^Which slopes are slippery?$/d' $f;
+        sed -i "/^Resenting one's own existence$/d" $f;
+        sed -i '/^Concern for the environment$/d' $f;
+        sed -i '/^Moral luck: a postscript$/d' $f;
+
+        # Loose page numbers and notes
+        sed -i 's/\s*[0-9]\+$//g' $f;
+        # Empty rows
+        sed -i '/^$/d' $f;
+        # Additional ad hoc clean
+        sed -i '/^Ill$/d' $f;
+        # Anti line wrap
+        sed -i -z 's/\([^.!?]\)\n\([^A-Z]\)/\1 \2/g' $f;
+
     fi
 
     if [ "$f" == "Moral_Luck.txt" ]; then
