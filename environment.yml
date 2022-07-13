@@ -1,0 +1,13 @@
+name: williams
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - black
+  - ipykernel
+  - nltk
+  - pandas
+  # - hunpos
+  - stanfordcorenlp
+  - openjdk
+  - spacy
