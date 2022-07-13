@@ -356,4 +356,7 @@ for f in *.txt; do
 
 done
 
+head "Essays_and_Reviews.txt" -n 733 > "Essays_and_Reviews_1.txt"
+tail "Essays_and_Reviews.txt" -n 826 > "Essays_and_Reviews_2.txt"
+
 zip txt_clean.zip *.txt
