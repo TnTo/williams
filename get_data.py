@@ -10,13 +10,16 @@ from taggers import AbstractTagger, NLTKPerceptronTagger, SpacyTagger, StanfordT
 # %%
 files = glob.glob("books/txt_clean/*.txt")
 texts = {f[16:-4]: open(f).read() for f in files}
-titles = texts.keys()
+# titles = texts.keys()
+titles = ["On_Opera"]
 
 # %%
-taggers: dict[str, AbstractTagger] = {
-    # "hunpos": NLTKHunposTagger(),
+par_taggers: dict[str, AbstractTagger] = {
     "spacy": SpacyTagger(),
     "perceptron": NLTKPerceptronTagger(),
+}
+
+seq_taggers: dict[str, AbstractTagger] = {
     "stanford": StanfordTagger(),
 }
 
@@ -35,9 +38,17 @@ with multiprocessing.Pool(processes=4) as pool:
         tag_text,
         [
             (i[1], i[0][0], i[0][1], sents[i[1]])
-            for i in itertools.product(taggers.items(), titles)
+            for i in itertools.product(par_taggers.items(), titles)
         ],
     )
+
+data += itertools.starmap(
+    tag_text,
+    [
+        (i[1], i[0][0], i[0][1], sents[i[1]])
+        for i in itertools.product(seq_taggers.items(), titles)
+    ],
+)
 
 # %%
 df = pandas.DataFrame(itertools.chain(*data))
@@ -45,12 +56,4 @@ df.columns = ["title", "tagger", "word", "tag"]
 df = df[df.tag != "SPACE"]
 
 # %%
-df.to_csv("data.csv.zip")
-
-# %%
-count_by_tag = df.groupby(by=["title", "tagger", "tag"]).count().unstack()
-freq_by_tag = count_by_tag.div(count_by_tag.sum(axis=1), axis=0)
-
-# %%
-freq_by_tag.to_csv("out/freq.csv")
-# %%
+df.to_csv("out/data.csv.zip")

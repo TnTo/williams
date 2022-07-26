@@ -3,11 +3,11 @@ import pandas
 import seaborn
 
 # %%
-df = (
-    pandas.read_csv("freq.csv", index_col=[0, 1], skiprows=[0, 2])
-    .reset_index()
-    .rename(columns={"tag": "title", "level_1": "tagger"})
-)
+df = pandas.read_csv("data.csv.zip")
+
+# %%
+count_by_tag = df.groupby(by=["title", "tagger", "tag"]).count().unstack()
+freq_by_tag = count_by_tag.div(count_by_tag.sum(axis=1), axis=0)
 
 # %%
 seaborn.relplot(
