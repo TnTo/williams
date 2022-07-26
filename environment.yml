@@ -5,9 +5,13 @@ dependencies:
   - python
   - black
   - ipykernel
+  # tag
   - nltk
-  - pandas
-  # - hunpos
   - stanfordcorenlp
   - openjdk
   - spacy
+  # data
+  - pandas
+  - seaborn
+  
+
