@@ -89,6 +89,11 @@ for f in *.txt; do
         sed -i '1,210 d' $f;
     fi
 
+    if [ "$f" == "Utilitarianism_For_and_Against.txt" ]; then
+        sed -i '1026,$ d' $f;
+        sed -i '1,610 d' $f;
+    fi
+
     # Remove whitespaces
     sed -i 's/^\s*//g' $f;
     sed -i 's/\s*$//g' $f;
@@ -354,9 +359,32 @@ for f in *.txt; do
         sed -i 's/\s*[0-9]\+$//g' $f;
     fi
 
+    if [ "$f" == "Utilitarianism_For_and_Against.txt" ]; then
+        # Loose page numbers and notes
+        sed -i 's/\s*[0-9]\+$//g' $f;
+    fi
+
 done
 
+cp "Descartes.txt" "Descartes_1.txt"
 head "Essays_and_Reviews.txt" -n 733 > "Essays_and_Reviews_1.txt"
 tail "Essays_and_Reviews.txt" -n 826 > "Essays_and_Reviews_2.txt"
+cp "Ethics_and_the_Limits_of_Philosophy.txt" "Ethics_and_the_Limits_of_Philosophy_2.txt"
+sed -n "402,453 p" "In_the_Beginning_Was_the_Deed.txt" > "In_the_Beginning_Was_the_Deed_1.txt"
+sed "402,453 d" "In_the_Beginning_Was_the_Deed.txt" > "In_the_Beginning_Was_the_Deed_2.txt"
+cp "Making_Sense_of_Humanity.txt" "Making_Sense_of_Humanity_2.txt"
+cp "Moral_Luck.txt" "Moral_Luck_1.txt"
+cp "Morality.txt" "Morality_1.txt"
+cp "Obscenity_and_Film_Censorship.txt" "Obscenity_and_Film_Censorship_1.txt" 
+sed -n -e "67,109 p" -e "172,197 p" -e "226,247 p" -e "369,440 p" "On_Opera.txt" > "On_Opera_1.txt" 
+sed -e "67,109 d" -e "172,197 d" -e "226,247 d" -e "369,440 d" "On_Opera.txt" > "On_Opera_2.txt" 
+sed -n -e "1,179 p" -e "593,630 p" "Philosophy_as_a_Humanistic_Discipline.txt" > "Philosophy_as_a_Humanistic_Discipline_1.txt"
+sed -e "1,179 d" -e "593,630 d" "Philosophy_as_a_Humanistic_Discipline.txt" > "Philosophy_as_a_Humanistic_Discipline_2.txt"
+cp "Problems_of_the_Self.txt" "Problems_of_the_Self_1.txt"
+cp "Shame_and_Necessity.txt" "Shame_and_Necessity_2.txt"
+sed -n -e "1,141 p" -e "392,440 p" -e "533,580 p" -e "923,1057 p" -e "1221,1310 p" -e "1583,$ p" "The_Sense_of_the_Past.txt" > "The_Sense_of_the_Past_1.txt"
+sed -e "1,141 d" -e "392,440 d" -e "533,580 d" -e "923,1057 d" -e "1221,1310 d" -e "1583,$ d" "The_Sense_of_the_Past.txt" > "The_Sense_of_the_Past_2.txt"
+cp "Truth_and_Truthfulness.txt" "Truth_and_Truthfulness_2.txt"
+cp "Utilitarianism_For_and_Against.txt" "Utilitarianism_For_and_Against_1.txt" 
 
 zip txt_clean.zip *.txt
