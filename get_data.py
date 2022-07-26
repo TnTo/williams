@@ -10,8 +10,7 @@ from taggers import AbstractTagger, NLTKPerceptronTagger, SpacyTagger, StanfordT
 # %%
 files = glob.glob("books/txt_clean/*.txt")
 texts = {f[16:-4]: open(f).read() for f in files}
-# titles = texts.keys()
-titles = ["On_Opera"]
+titles = texts.keys()
 
 # %%
 par_taggers: dict[str, AbstractTagger] = {
