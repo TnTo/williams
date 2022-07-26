@@ -52,5 +52,5 @@ count_by_tag = df.groupby(by=["title", "tagger", "tag"]).count().unstack()
 freq_by_tag = count_by_tag.div(count_by_tag.sum(axis=1), axis=0)
 
 # %%
-freq_by_tag.to_csv("freq.csv")
+freq_by_tag.to_csv("out/freq.csv")
 # %%
