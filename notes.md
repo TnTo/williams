@@ -11,13 +11,13 @@
 [x] Le parole per categoria più comuni per testo
 [x] Dividere essay Da the miracle of theism
 
-[ ] NOUN - VERB
-[ ] SENTENCE LEN
-[ ] NOUN - VERB - ADJ - ADV normalized
-[ ] Lowercase everything
-[ ] head(20+) for most used (verbs!) after groupby(tagger) -- Stopword?
-[ ] Not in essay and unique: order by freq
-[ ] Remove duplicates given by tagger
+[x] NOUN - VERB
+[x] SENTENCE LEN
+[x] NOUN - VERB - ADJ - ADV normalized
+[x] Lowercase everything
+[x] head(20+) for most used (verbs!) after groupby(tagger) -- Stopword?
+[x] Not in essay and unique: order by freq
+[x] Remove duplicates given by tagger
 
 Gruppo 1:
 - Morality

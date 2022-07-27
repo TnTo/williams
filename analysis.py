@@ -1,49 +1,208 @@
 # %%
 import pandas
 import seaborn
+import matplotlib.pyplot as plt
+import nltk
+import glob
+import itertools
 
 # %%
-df = pandas.read_csv("data.csv.zip")
+nltk.download("stopwords")
+stopwords = nltk.corpus.stopwords.words("english")
 
 # %%
-count_by_tag = df.groupby(by=["title", "tagger", "tag"]).count().unstack()
-freq_by_tag = count_by_tag.div(count_by_tag.sum(axis=1), axis=0)
+df = pandas.read_csv("out/data.csv.zip", index_col=0)
+
+# %%
+df["split"] = df.title.str[-1].str.isdigit()
+df["group"] = 0
+df.loc[df.split, "group"] = pandas.to_numeric(df[df.split].title.str[-1])
+df["is_essay"] = df.title.str.contains("Essays_and_Reviews")
+df["lowercase_word"] = df.word.str.lower()
+
+# %%
+count_by_tag = (
+    df.groupby(by=["title", "tagger", "is_essay", "group", "tag"])
+    .count()["word"]
+    .unstack()
+)
+freq_by_tag = count_by_tag.div(count_by_tag.sum(axis=1), axis=0).reset_index()
 
 # %%
 seaborn.relplot(
-    data=df.melt(["title", "tagger"])
+    data=freq_by_tag.melt(["title", "tagger"]),
     x="value",
     y="title",
     hue="tagger",
-    col="variable",
+    col="tag",
     col_wrap=1,
     aspect=3,
     facet_kws={"sharey": True, "sharex": False},
 ).savefig("out/freq_by_type.pdf")
 
 # %%
-df.melt(["title", "tagger"]).groupby(["variable", "title"])["value"].aggregate(
-    ["min", "median", "mean", "max"]
-).sort_values(["variable", "median"], ascending=[True, False]).to_csv("out/freq_by_type.csv")
+freq_by_tag.melt(["title", "tagger", "group", "is_essay"]).groupby(
+    ["tag", "title", "group", "is_essay"]
+)["value"].aggregate(["min", "median", "mean", "max"]).sort_values(
+    ["tag", "median"], ascending=[True, False]
+).to_csv(
+    "out/freq_by_type.csv"
+)
 
 # %%
-df2 = pandas.read_csv("data.csv.zip")
+seaborn.scatterplot(
+    data=freq_by_tag,
+    x="NOUN",
+    y="VERB",
+    style="is_essay",
+    hue="title",
+    palette=seaborn.color_palette("Spectral", 35),
+)
+plt.legend(bbox_to_anchor=(1.02, 1), loc="upper left", borderaxespad=0)
+plt.savefig("out/noun_verb.pdf", bbox_inches="tight")
 
 # %%
-df2.groupby(["title", "tagger", "tag", "word"]).count().sort_values(
-    ["title", "tag", "tagger", "Unnamed: 0"], ascending=[True, True, True, False]
-).groupby(["title", "tagger", "tag"]).head(20).reset_index(drop=False).to_csv("out/most_used.csv", index=False)
-# %%
-df2['splitted'] = df2.title.str[-1].str.isdigit()
-df2['is_essay'] = (df2.title == 'Essays_and_Reviews')
-# %%
-df_books = df2[~df2.splitted].groupby(['title', 'word']).count()["Unnamed: 0"].rename("N").reset_index(drop=False)
-df_unique = df_books.merge(df_books.groupby('word').count().query('title == 1').reset_index(), on='word')[['word', 'title_x', 'N_x']].sort_values(['title_x', 'N_x'], ascending=[True, False])
-df_unique[df_unique.word.str.isalpha()].to_csv('out/unique_words.csv', index=False)
+count_by_tag[["NOUN", "ADJ", "VERB", "ADV"]].div(
+    count_by_tag[["NOUN", "ADJ", "VERB", "ADV"]].sum(axis=1), axis=0
+).reset_index().melt(["title", "tagger", "group", "is_essay"]).groupby(
+    ["title", "group", "is_essay", "tag"]
+)[
+    "value"
+].median().unstack().to_csv(
+    "out/freq_by_type_ADJ_ADV_NOUN_VERB.csv"
+)
+
 
 # %%
-df_essays = df2[~df2.splitted].groupby(['is_essay', 'word']).count()["Unnamed: 0"].rename("N").reset_index(drop=False)
-df_not_in_essays = df_essays[~df_essays.is_essay]
-df_not_in_essays = df_not_in_essays[df_not_in_essays.word.isin(pandas.merge(df_essays, df_essays[df_essays.is_essay], on='word', how='left').groupby('word').count().query("N_x == 1").reset_index(drop=False).word)].sort_values("N", ascending=False)
-df_not_in_essays[df_not_in_essays.word.str.isalpha()].to_csv('out/not_in_essays.csv', index=False, header=False)
+most_used = (
+    df.groupby(["title", "group", "tagger", "tag", "lowercase_word"])
+    .count()
+    .word.rename("N")
+    .reset_index()
+    .sort_values(["title", "tag", "tagger", "N"], ascending=[True, True, True, False])
+    .groupby(["title", "group", "tagger", "tag"])
+    .head(20)
+    .reset_index()
+)
+most_used.to_csv("out/most_used.csv", index=False)
+
+# %%
+most_used[["title", "group", "tag", "lowercase_word", "N"]].groupby(
+    ["title", "group", "tag", "lowercase_word"]
+).max().sort_values(
+    ["title", "tag", "N"], ascending=[True, True, False]
+).reset_index().to_csv(
+    "out/most_used_grouped_by_tagger.csv", index=False
+)
+
+# %%
+most_used_nosw = (
+    df[~df.lowercase_word.isin(stopwords)]
+    .groupby(["title", "group", "tagger", "tag", "lowercase_word"])
+    .count()
+    .word.rename("N")
+    .reset_index()
+    .sort_values(["title", "tag", "tagger", "N"], ascending=[True, True, True, False])
+    .groupby(["title", "group", "tagger", "tag"])
+    .head(10)
+    .reset_index()
+)
+most_used_nosw.to_csv("out/most_used_nosw.csv", index=False)
+
+# %%
+most_used_nosw[["title", "group", "tag", "lowercase_word", "N"]].groupby(
+    ["title", "group", "tag", "lowercase_word"]
+).max().sort_values(
+    ["title", "tag", "N"], ascending=[True, True, False]
+).reset_index().to_csv(
+    "out/most_used_nosw_grouped_by_tagger.csv", index=False
+)
+
+# %%
+df[
+    df.lowercase_word.isin(
+        df[~df.split][["title", "lowercase_word"]]
+        .drop_duplicates()
+        .groupby("lowercase_word")
+        .count()
+        .query("title == 1")
+        .query("lowercase_word.str.isalpha()")
+        .reset_index()
+        .lowercase_word
+    )
+].query("split == False").groupby(
+    ["title", "lowercase_word", "tagger"]
+).count().word.rename(
+    "N"
+).groupby(
+    ["title", "lowercase_word"]
+).max().reset_index().sort_values(
+    ["title", "N"], ascending=[True, False]
+).to_csv(
+    "out/unique_words.csv", index=False
+)
+
+# %%
+df[
+    df.lowercase_word.isin(
+        df[df.split][["title", "lowercase_word"]]
+        .drop_duplicates()
+        .groupby("lowercase_word")
+        .count()
+        .query("title == 1")
+        .query("lowercase_word.str.isalpha()")
+        .reset_index()
+        .lowercase_word
+    )
+].query("split").groupby(["title", "lowercase_word", "tagger"]).count().word.rename(
+    "N"
+).groupby(
+    ["title", "lowercase_word"]
+).max().reset_index().sort_values(
+    ["title", "N"], ascending=[True, False]
+).to_csv(
+    "out/unique_words_split.csv", index=False
+)
+# %%
+for i in range(3):
+    df[
+        ~df.lowercase_word.isin(
+            df[(df.group == i) & df.is_essay]
+            .lowercase_word.drop_duplicates()
+            .where(lambda w: w.str.isalpha())
+            .dropna()
+        )
+    ].query("group == @i and ~is_essay").groupby(
+        ["tagger", "lowercase_word"]
+    ).count().word.rename(
+        "N"
+    ).groupby(
+        "lowercase_word"
+    ).max().reset_index().query(
+        "lowercase_word.str.isalpha() and lowercase_word.str.len() > 2"
+    ).sort_values(
+        "N", ascending=False
+    ).to_csv(
+        f"out/not_in_essays_{i}.csv", index=False
+    )
+
+# %%
+files = glob.glob("books/txt_clean/*.txt")
+texts = {f[16:-4]: open(f).read() for f in files}
+titles = texts.keys()
+sents = {
+    title: [
+        len(nltk.tokenize.word_tokenize(sent))
+        for sent in nltk.tokenize.sent_tokenize(texts[title])
+    ]
+    for title in titles
+}
+# %%
+pandas.DataFrame(
+    itertools.chain.from_iterable(
+        [zip(itertools.repeat(k), v) for k, v in sents.items()]
+    ),
+    columns=["title", "len"],
+).to_csv("out/sent_len.csv", index=False)
+
 # %%
