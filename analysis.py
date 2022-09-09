@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 import nltk
 import glob
 import itertools
+import collections
 
 # %%
 nltk.download("stopwords")
@@ -204,5 +205,51 @@ pandas.DataFrame(
     ),
     columns=["title", "len"],
 ).to_csv("out/sent_len.csv", index=False)
+
+# %%
+words = {
+    title: collections.Counter(
+        map(lambda w: w.lower(), nltk.tokenize.word_tokenize(texts[title]))
+    ).items()
+    for title in titles
+}
+# %%
+word_df = (
+    pandas.DataFrame(
+        [(k, w, c) for k, count in words.items() for w, c in count],
+        columns=["title", "word", "count"],
+    )
+    .sort_values(["title", "count"], ascending=[True, False])
+    .query("word.str.isalpha() and word.str.len() > 2 and word not in @stopwords")
+)
+
+# %%
+with pandas.ExcelWriter("out/words.ods") as writer:
+    for t in word_df.title.unique():
+        word_df[word_df.title == t].to_excel(writer, sheet_name=t, index=False)
+
+# %%
+most_used_nosw_all = (
+    (
+        df[~df.lowercase_word.isin(stopwords)]
+        .groupby(["title", "group", "tagger", "tag", "lowercase_word"])
+        .count()
+        .word.rename("N")
+        .reset_index()
+        .sort_values(
+            ["title", "tag", "tagger", "N"], ascending=[True, True, True, False]
+        )
+    )[["title", "group", "tag", "lowercase_word", "N"]]
+    .groupby(["title", "group", "tag", "lowercase_word"])
+    .max()
+    .sort_values(["title", "tag", "N"], ascending=[True, True, False])
+    .reset_index()
+)
+
+with pandas.ExcelWriter("out/most_used_nosw_grouped_by_tagger_all.ods") as writer:
+    for t in most_used_nosw_all.title.unique():
+        most_used_nosw_all[most_used_nosw_all.title == t].to_excel(
+            writer, sheet_name=t, index=False
+        )
 
 # %%
