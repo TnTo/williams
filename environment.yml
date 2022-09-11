@@ -13,6 +13,6 @@ dependencies:
   # data
   - pandas
   - seaborn
-  - odfpy
+  - openpyxl
   
 

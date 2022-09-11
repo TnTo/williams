@@ -224,14 +224,14 @@ word_df = (
 )
 
 # %%
-with pandas.ExcelWriter("out/words.ods") as writer:
+with pandas.ExcelWriter("out/words.xlsx") as writer:
     for t in word_df.title.unique():
         word_df[word_df.title == t].to_excel(writer, sheet_name=t, index=False)
 
 # %%
 most_used_nosw_all = (
     (
-        df[~df.lowercase_word.isin(stopwords)]
+        df.query("word.str.isalpha() and word.str.len() > 2 and word not in @stopwords")
         .groupby(["title", "group", "tagger", "tag", "lowercase_word"])
         .count()
         .word.rename("N")
@@ -246,7 +246,7 @@ most_used_nosw_all = (
     .reset_index()
 )
 
-with pandas.ExcelWriter("out/most_used_nosw_grouped_by_tagger_all.ods") as writer:
+with pandas.ExcelWriter("out/most_used_nosw_grouped_by_tagger_all.xlsx") as writer:
     for t in most_used_nosw_all.title.unique():
         most_used_nosw_all[most_used_nosw_all.title == t].to_excel(
             writer, sheet_name=t, index=False
