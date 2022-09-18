@@ -19,6 +19,7 @@ df["split"] = df.title.str[-1].str.isdigit()
 df["group"] = 0
 df.loc[df.split, "group"] = pandas.to_numeric(df[df.split].title.str[-1])
 df["is_essay"] = df.title.str.contains("Essays_and_Reviews")
+df["is_cultural"] = df.is_essay | df.title.str.contains("On_Opera")
 df["lowercase_word"] = df.word.str.lower()
 
 # %%
@@ -173,7 +174,7 @@ for i in range(3):
             .where(lambda w: w.str.isalpha())
             .dropna()
         )
-    ].query("group == @i and ~is_essay").groupby(
+    ].query("group == @i and ~is_cultural").groupby(
         ["tagger", "lowercase_word"]
     ).count().word.rename(
         "N"
@@ -185,6 +186,29 @@ for i in range(3):
         "N", ascending=False
     ).to_csv(
         f"out/not_in_essays_{i}.csv", index=False
+    )
+
+# %%
+for i in range(3):
+    df[
+        ~df.lowercase_word.isin(
+            df[(df.group == i) & df.is_cultural]
+            .lowercase_word.drop_duplicates()
+            .where(lambda w: w.str.isalpha())
+            .dropna()
+        )
+    ].query("group == @i and ~is_cultural").groupby(
+        ["tagger", "lowercase_word"]
+    ).count().word.rename(
+        "N"
+    ).groupby(
+        "lowercase_word"
+    ).max().reset_index().query(
+        "lowercase_word.str.isalpha() and lowercase_word.str.len() > 2"
+    ).sort_values(
+        "N", ascending=False
+    ).to_csv(
+        f"out/not_in_cultural_{i}.csv", index=False
     )
 
 # %%
@@ -229,6 +253,35 @@ with pandas.ExcelWriter("out/words.xlsx") as writer:
         word_df[word_df.title == t].to_excel(writer, sheet_name=t, index=False)
 
 # %%
+capital_words = (
+    pandas.DataFrame(
+        [
+            (k, w, c)
+            for k, count in {
+                title: collections.Counter(
+                    filter(
+                        lambda w: w[0].isupper(),
+                        nltk.tokenize.word_tokenize(texts[title]),
+                    )
+                ).items()
+                for title in titles
+            }.items()
+            for w, c in count
+        ],
+        columns=["title", "word", "count"],
+    )
+    .sort_values(["title", "count"], ascending=[True, False])
+    .query("word.str.isalpha()")
+)
+
+with pandas.ExcelWriter("out/capital_words.xlsx") as writer:
+    for t in capital_words.title.unique():
+        capital_words[capital_words.title == t].to_excel(
+            writer, sheet_name=t, index=False
+        )
+
+
+# %%
 most_used_nosw_all = (
     (
         df.query("word.str.isalpha() and word.str.len() > 2 and word not in @stopwords")
@@ -249,6 +302,26 @@ most_used_nosw_all = (
 with pandas.ExcelWriter("out/most_used_nosw_grouped_by_tagger_all.xlsx") as writer:
     for t in most_used_nosw_all.title.unique():
         most_used_nosw_all[most_used_nosw_all.title == t].to_excel(
+            writer, sheet_name=t, index=False
+        )
+
+# %%
+most_used_no_essay_nosw = (
+    df.query("word.str.isalpha() and word.str.len() > 2 and word not in @stopwords")
+    .query("is_cultural == False")
+    .groupby(["group", "tagger", "tag", "lowercase_word"])
+    .count()
+    .word.rename("N")
+    .reset_index()
+    .groupby(["group", "tag", "lowercase_word"])
+    .max()
+    .sort_values(["tag", "group", "N"], ascending=[True, True, False])
+    .reset_index()[["tag", "group", "lowercase_word", "N"]]
+)
+
+with pandas.ExcelWriter("out/most_used_no_cultural_nosw.xlsx") as writer:
+    for t in most_used_no_essay_nosw.tag.unique():
+        most_used_no_essay_nosw[most_used_no_essay_nosw.tag == t].to_excel(
             writer, sheet_name=t, index=False
         )
 
