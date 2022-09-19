@@ -274,11 +274,19 @@ capital_words = (
     .query("word.str.isalpha()")
 )
 
+
 with pandas.ExcelWriter("out/capital_words.xlsx") as writer:
     for t in capital_words.title.unique():
         capital_words[capital_words.title == t].to_excel(
             writer, sheet_name=t, index=False
         )
+
+# %%
+capital_words.query(
+    "not(title.str.contains('Essays_and_Reviews') or title.str.contains('On_Opera')) and not title.str[-1].str.isdigit()"
+).groupby("word").sum().reset_index().sort_values("count", ascending=False).to_csv(
+    "out/capital_no_cultural.csv", index=False
+)
 
 
 # %%
