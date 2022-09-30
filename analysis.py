@@ -288,6 +288,26 @@ capital_words.query(
     "out/capital_no_cultural.csv", index=False
 )
 
+# %%
+capital_words["split"] = capital_words.title.str[-1].str.isdigit()
+capital_words["group"] = 0
+capital_words.loc[capital_words.split, "group"] = pandas.to_numeric(
+    capital_words[capital_words.split].title.str[-1]
+)
+capital_words["is_essay"] = capital_words.title.str.contains("Essays_and_Reviews")
+
+# %%
+with pandas.ExcelWriter("out/capital_words_by_period.xlsx") as writer:
+    for t in capital_words.group.sort_values().unique():
+        capital_words[capital_words.is_essay & (capital_words.group == t)][
+            "word"
+        ].to_excel(writer, sheet_name=f"essay_{t}", index=False)
+        capital_words[(~capital_words.is_essay) & (capital_words.group == t)].groupby(
+            "word"
+        ).sum().reset_index().sort_values("count", ascending=False)["word"].to_excel(
+            writer, sheet_name=f"not_essay_{t}", index=False
+        )
+
 
 # %%
 most_used_nosw_all = (
