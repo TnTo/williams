@@ -215,6 +215,8 @@ for i in range(3):
 files = glob.glob("books/txt_clean/*.txt")
 texts = {f[16:-4]: open(f).read() for f in files}
 titles = texts.keys()
+
+# %%
 sents = {
     title: [
         len(nltk.tokenize.word_tokenize(sent))
@@ -300,14 +302,41 @@ capital_words["is_essay"] = capital_words.title.str.contains("Essays_and_Reviews
 with pandas.ExcelWriter("out/capital_words_by_period.xlsx") as writer:
     for t in capital_words.group.sort_values().unique():
         capital_words[capital_words.is_essay & (capital_words.group == t)][
-            "word"
+            ["word", "count"]
         ].to_excel(writer, sheet_name=f"essay_{t}", index=False)
         capital_words[(~capital_words.is_essay) & (capital_words.group == t)].groupby(
             "word"
-        ).sum().reset_index().sort_values("count", ascending=False)["word"].to_excel(
+        ).sum().reset_index().sort_values("count", ascending=False)[
+            ["word", "count"]
+        ].to_excel(
             writer, sheet_name=f"not_essay_{t}", index=False
         )
 
+# %%
+with pandas.ExcelWriter("out/names_by_period.xlsx") as writer:
+    for t in capital_words.group.sort_values().unique():
+
+        capital_words[
+            capital_words.is_essay
+            & (capital_words.group == t)
+            & capital_words.word.isin(
+                pandas.read_excel("in/Authors cited in Essays and Reviews.xlsx").word
+            )
+        ][["word", "count"]].sort_values(["count", "word"], ascending=[False, True]).to_excel(
+            writer, sheet_name=f"essay_{t}", index=False
+        )
+
+        capital_words[
+            (~capital_words.is_essay)
+            & (capital_words.group == t)
+            & capital_words.word.isin(
+                pandas.read_excel("in/Authors cited in Academic Work.xlsx").word
+            )
+        ].groupby("word").sum().reset_index().sort_values("count", ascending=False)[
+            ["word", "count"]
+        ].to_excel(
+            writer, sheet_name=f"not_essay_{t}", index=False
+        )
 
 # %%
 most_used_nosw_all = (
