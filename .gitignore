@@ -5,3 +5,8 @@ books/*/*.zip
 data
 
 __pycache__
+
+*.docx
+*.odt
+*.pdf
+*.pages
