@@ -1,5 +1,6 @@
 books/pdf_epub
 books/*/*.zip
+books
 
 .vscode
 data
@@ -10,3 +11,4 @@ __pycache__
 *.odt
 *.pdf
 *.pages
+*.md
